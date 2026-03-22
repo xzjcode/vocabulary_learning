@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+  <title>Vocabulary Learning</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/student.css">
+</head>
+<body>
+  <nav id="app-nav" class="hidden" style="position: absolute; top:0; left:0; right:0; padding: 0.75rem; display:flex; justify-content:space-between; gap:0.5rem; z-index: 50;">
+    <button class="btn btn-secondary btn-sm nav-btn" id="btn-global-home">Home</button>
+    <button class="btn btn-outline btn-sm nav-btn" id="btn-global-logout" style="color:#ef4444; border-color:#ef4444; background:rgba(255,255,255,0.8);">Logout</button>
+  </nav>
+
+  <div class="app-container" style="margin-top: 3rem;">
+
+    <!-- View: Login -->
+    <div id="view-login" class="view-section">
+      <div class="login-card">
+        <h1>Welcome</h1>
+        <p>Please enter your name to continue</p>
+        <div class="name-input-group mt-2">
+          <input type="text" id="login-name" placeholder="Your Name" />
+        </div>
+        <button class="btn btn-primary" id="btn-login" style="width: 100%">Enter</button>
+      </div>
+    </div>
+
+    <!-- View: Home -->
+    <div id="view-home" class="view-section hidden">
+      <div class="home-card">
+        <h1 id="home-greeting">Hello, Student!</h1>
+        <div id="checkin-status" class="checkin-status mt-1">
+          <span class="status-dot"></span>
+          <span class="status-text">Checking today's status...</span>
+        </div>
+        <div class="home-actions mt-2">
+          <button class="btn btn-primary" id="btn-go-new-test" style="width: 100%; margin-bottom: 1rem;">New Test</button>
+          <button class="btn btn-secondary" id="btn-go-history" style="width: 100%">History</button>
+        </div>
+        <button class="btn btn-outline btn-sm mt-3" id="btn-logout">Logout</button>
+      </div>
+    </div>
+
+    <!-- View: Quiz List -->
+    <div id="view-quiz-list" class="view-section hidden">
+      <div class="list-card">
+        <div class="card-header pb-1 border-b">
+          <h2>Select a Test</h2>
+        </div>
+        <div class="card-body">
+          <div id="active-quizzes-container" class="item-list mt-2">
+            <div class="loading-spinner"></div>
+          </div>
+          <button class="btn btn-secondary mt-3" style="width: 100%" id="btn-back-home-from-quizzes">Back to Home</button>
+        </div>
+      </div>
+    </div>
+
+    <!-- View: History List -->
+    <div id="view-history-list" class="view-section hidden">
+      <div class="list-card">
+        <div class="card-header pb-1 border-b">
+          <h2>Your History</h2>
+        </div>
+        <div class="card-body">
+          <div id="history-container" class="item-list mt-2">
+            <div class="loading-spinner"></div>
+          </div>
+          <button class="btn btn-secondary mt-3" style="width: 100%" id="btn-back-home-from-history">Back to Home</button>
+        </div>
+      </div>
+    </div>
+
+    <!-- View: Quiz / Review -->
+    <div id="view-quiz" class="view-section hidden" style="flex: 1; display: flex; flex-direction: column;">
+      <header class="app-header">
+        <h1 id="quiz-title">Vocabulary Quiz</h1>
+        <div class="progress-container">
+          <div class="progress-bar" id="progress-bar"></div>
+        </div>
+        <div class="progress-text" id="progress-text">0 / 0</div>
+      </header>
+
+      <main class="quiz-container" id="quiz-container">
+        <div class="loading-spinner" id="loading-spinner"></div>
+        
+        <!-- Question Section -->
+        <div class="question-card hidden" id="question-card">
+          <h2 class="question-text" id="question-text"></h2>
+          <div class="options-grid" id="options-grid"></div>
+          <div class="rationale-box hidden" id="rationale-box">
+            <p id="rationale-text"></p>
+          </div>
+          <div class="hint-box hidden" id="hint-box">
+            <p id="hint-text"></p>
+          </div>
+        </div>
+
+        <!-- Result Section -->
+        <div class="result-card hidden" id="result-card">
+          <h2 id="result-title">Quiz Complete!</h2>
+          <div class="score-display">
+            <span class="score-number" id="final-score">0%</span>
+            <span class="score-label">Accuracy</span>
+          </div>
+          <div class="stats-row">
+            <div class="stat-item">
+              <span class="stat-value" id="correct-count">0</span>
+              <span class="stat-label">Correct</span>
+            </div>
+            <div class="stat-item">
+              <span class="stat-value" id="total-count">0</span>
+              <span class="stat-label">Total</span>
+            </div>
+          </div>
+          
+          <div id="result-review-section" class="mt-2 border-t pt-1">
+            <h3 style="font-size: 0.9rem; color: #ef4444; margin-bottom: 0.5rem;">Incorrect Questions Recap</h3>
+            <div id="result-review-list" class="missed-list"></div>
+          </div>
+          <button class="btn btn-secondary" id="btn-finish-review" style="width: 100%;">Back to Home</button>
+        </div>
+        
+      </main>
+
+      <footer class="app-footer">
+        <button class="btn btn-secondary" id="btn-prev" disabled>Previous</button>
+        <button class="btn btn-primary" id="btn-next" disabled>Next</button>
+      </footer>
+    </div>
+    
+  </div>
+
+  <script src="js/student.js"></script>
+</body>
+</html>

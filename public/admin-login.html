@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Admin Login</title>
+  <link rel="stylesheet" href="css/admin.css">
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+</head>
+<body style="display:flex; justify-content:center; align-items:center;">
+  <div class="card" style="width:100%; max-width:400px; padding: 2rem;">
+    <h1 style="color:var(--primary); font-size:1.5rem; text-align:center; margin-bottom:1.5rem;">Admin Login</h1>
+    <form id="admin-login-form">
+      <input type="password" id="admin-password" placeholder="Enter admin password" required class="form-select" style="width:100%; margin-bottom: 1rem;">
+      <button type="submit" class="btn btn-primary" style="width:100%">Login</button>
+    </form>
+    <p id="error-msg" style="color:red; text-align:center; margin-top:1rem;"></p>
+  </div>
+  <script>
+    document.getElementById('admin-login-form').addEventListener('submit', async (e) => {
+      e.preventDefault();
+      const pwd = document.getElementById('admin-password').value;
+      const errorMsg = document.getElementById('error-msg');
+      errorMsg.textContent = 'Logging in...';
+      try {
+        const res = await fetch('/api/admin-login', {
+          method: 'POST',
+          headers: {'Content-Type': 'application/json'},
+          body: JSON.stringify({ password: pwd })
+        });
+        if (res.ok) {
+          window.location.href = '/admin.html';
+        } else {
+          errorMsg.textContent = 'Incorrect password.';
+        }
+      } catch (err) {
+        errorMsg.textContent = 'Server error.';
+      }
+    });
+  </script>
+</body>
+</html>

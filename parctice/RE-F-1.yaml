@@ -1,0 +1,3404 @@
+quiz_title: "Reading Explorer 1 Vocabulary Practice"
+questions:
+  - id: 1
+    text: "The heavy rain had a negative _______ on the farmers' crops this year."
+    options:
+      - text: "effect"
+        is_correct: true
+        rationale: "在这个语境中，'effect' 表示某种原因导致的结果或影响，符合句意。"
+      - text: "effort"
+        is_correct: false
+        rationale: "'Effort' 指的是身体或精神上的努力，无法描述天气对庄稼产生的结果。"
+      - text: "affect"
+        is_correct: false
+        rationale: "'Affect' 通常作为动词使用，而此处冠词 'a' 后面需要接名词形式。"
+      - text: "event"
+        is_correct: false
+        rationale: "'Event' 指发生的事情或活动，放在此处无法表达‘产生影响’的特定含义。"
+    hint: "想想看，当一件事导致另一件事发生改变时，我们称这种“结果”为什么？"
+
+  - id: 2
+    text: "It is hard for me to study when loud music starts to _______ me from my work."
+    options:
+      - text: "motivate"
+        is_correct: false
+        rationale: "'Motivate' 是激励的意思，巨大的噪音通常不会让人更有动力去工作。"
+      - text: "distract"
+        is_correct: true
+        rationale: "'Distract' 表示使某人分心，符合音乐干扰学习导致注意力转移的场景。"
+      - text: "support"
+        is_correct: false
+        rationale: "'Support' 指支持或帮助，噪音通常被视为障碍而非支持。"
+      - text: "protect"
+        is_correct: false
+        rationale: "'Protect' 指保护免受伤害，逻辑上不符合音乐对学习者的影响。"
+    hint: "当你的注意力从重要的事情上移开时，发生了什么？"
+
+  - id: 3
+    text: "A good teacher knows how to _______ students to read more books for fun."
+    options:
+      - text: "distract"
+        is_correct: false
+        rationale: "老师的目标通常是让学生专心，而不是让他们分心去做别的事。"
+      - text: "ignore"
+        is_correct: false
+        rationale: "'Ignore' 是忽略的意思，这与鼓励学生阅读的行为相反。"
+      - text: "describe"
+        is_correct: false
+        rationale: "虽然可以描述书本，但句意更侧重于给予学生阅读的动力或热情。"
+      - text: "motivate"
+        is_correct: true
+        rationale: "'Motivate' 意味着激发某人的动力或兴趣去做某事，符合教育者的角色。"
+    hint: "哪个词表达了给某人“动力”或“理由”去做一件有益的事？"
+
+  - id: 4
+    text: "The weather _______ says it will be sunny tomorrow, so we can go to the park."
+    options:
+      - text: "forecast"
+        is_correct: true
+        rationale: "'Forecast' 专指对未来（尤其是天气）的预报。"
+      - text: "financial"
+        is_correct: false
+        rationale: "'Financial' 指经济的，不能用来形容天气。"
+      - text: "drought"
+        is_correct: false
+        rationale: "'Drought' 是干旱，是一个灾害名词，不是预报本身。"
+      - text: "likely"
+        is_correct: false
+        rationale: "'Likely' 是形容词，通常不直接接在 weather 后面作宾语。"
+    hint: "如果你想知道明天的天气，你会看什么？"
+
+  - id: 5
+    text: "The polar bear uses its white fur as _______ to hide in the snow."
+    options:
+      - text: "camouflage"
+        is_correct: true
+        rationale: "'Camouflage' 指伪装，生物利用它使自己与环境融合以躲避危险或捕猎。"
+      - text: "communication"
+        is_correct: false
+        rationale: "'Communication' 指交流，白色的毛主要是为了隐藏而非说话。"
+      - text: "texture"
+        is_correct: false
+        rationale: "'Texture' 指纹理，虽然毛有纹理，但此处强调的是‘隐藏’的功能。"
+      - text: "movement"
+        is_correct: false
+        rationale: "'Movement' 指动作，白色的毛属于身体特征而非动作。"
+    hint: "动物为了不被发现而把自己‘藏’在背景里的能力叫什么？"
+
+  - id: 6
+    text: "A hungry lion is a dangerous _______ that hunts other animals for food."
+    options:
+      - text: "assistant"
+        is_correct: false
+        rationale: "'Assistant' 指助手，狮子在捕猎时不是助手。"
+      - text: "predator"
+        is_correct: true
+        rationale: "'Predator' 指捕食者，即通过捕食其他生物生存的动物。"
+      - text: "creature"
+        is_correct: false
+        rationale: "虽然狮子是 creature（生物），但 'predator' 更能体现它‘捕猎’的特征。"
+      - text: "organism"
+        is_correct: false
+        rationale: "'Organism' 通常指微小的有机体，不适合描述狮子。"
+    hint: "吃肉的猎手在英语里怎么说？"
+
+  - id: 7
+    text: "The giant squid is a very _______ animal because people rarely see it."
+    options:
+      - text: "ordinary"
+        is_correct: false
+        rationale: "'Ordinary' 指平常的，但巨型乌贼非常少见。"
+      - text: "unusual"
+        is_correct: true
+        rationale: "'Unusual' 指不寻常的、罕见的，符合‘很少见到’的描述。"
+      - text: "simple"
+        is_correct: false
+        rationale: "'Simple' 指简单的，巨型乌贼的构造和习性并不简单。"
+      - text: "daily"
+        is_correct: false
+        rationale: "'Daily' 指每日的，不符合句意。"
+    hint: "如果一个东西很难见到，你会觉得它很‘普通’还是‘特别’？"
+
+  - id: 8
+    text: "Many people _______ the factory for polluting the local river."
+    options:
+      - text: "blame"
+        is_correct: true
+        rationale: "'Blame' 指谴责或把责任归咎于某人，符合对污染行为的反应。"
+      - text: "deliver"
+        is_correct: false
+        rationale: "'Deliver' 是递送，不能表达谴责的意思。"
+      - text: "assist"
+        is_correct: false
+        rationale: "'Assist' 是协助，人们不会协助工厂污染河流。"
+      - text: "replace"
+        is_correct: false
+        rationale: "'Replace' 是替代，不符合逻辑。"
+    hint: "当一件事做错时，你会指责谁？"
+
+  - id: 9
+    text: "It is very _______ that the price of oil will increase next month."
+    options:
+      - text: "likely"
+        is_correct: true
+        rationale: "'Likely' 表示‘可能的’，常用于对未来趋势的推测。"
+      - text: "past"
+        is_correct: false
+        rationale: "'Past' 指过去，不能描述未来的可能性。"
+      - text: "odd"
+        is_correct: false
+        rationale: "'Odd' 指古怪的，不符合描述价格上涨趋势的常用表达。"
+      - text: "immediate"
+        is_correct: false
+        rationale: "'Immediate' 是立刻的，但通常不用来修饰 'It is... that' 结构表达可能性。"
+    hint: "如果你觉得一件事有很大机会发生，你会用哪个词？"
+
+  - id: 10
+    text: "The _______ for our summer holiday is a small island in the Pacific."
+    options:
+      - text: "destination"
+        is_correct: true
+        rationale: "'Destination' 指目的地，即旅行要去的地方。"
+      - text: "factory"
+        is_correct: false
+        rationale: "'Factory' 是工厂，人们通常不去工厂度假。"
+      - text: "source"
+        is_correct: false
+        rationale: "'Source' 是来源，不符合旅行地点的语境。"
+      - text: "fridge"
+        is_correct: false
+        rationale: "'Fridge' 是冰箱，完全无关。"
+    hint: "旅行的终点站叫什么？"
+
+  - id: 11
+    text: "Farmers are worried because the long _______ has dried up all the water."
+    options:
+      - text: "flood"
+        is_correct: false
+        rationale: "'Flood' 是洪水，洪水会导致水太多，而不是干涸。"
+      - text: "drought"
+        is_correct: true
+        rationale: "'Drought' 指干旱，即长期降雨不足导致缺水。"
+      - text: "forecast"
+        is_correct: false
+        rationale: "'Forecast' 是预报，预报本身不会让水干涸。"
+      - text: "financial"
+        is_correct: false
+        rationale: "'Financial' 是金融，与自然界水干涸无关。"
+    hint: "很久不下雨导致土地裂开的情况叫什么？"
+
+  - id: 12
+    text: "If you want to finish your work on time, you should _______ on it."
+    options:
+      - text: "ignore"
+        is_correct: false
+        rationale: "'Ignore' 是忽略，忽略工作会导致无法完成。"
+      - text: "concentrate"
+        is_correct: true
+        rationale: "'Concentrate' 指专心、集中注意力。"
+      - text: "distract"
+        is_correct: false
+        rationale: "'Distract' 是分心，分心会降低效率。"
+      - text: "motivate"
+        is_correct: false
+        rationale: "虽然需要动力，但句子强调的是‘当下的专注’。"
+    hint: "当你全神贯注做一件事时，你在干什么？"
+
+  - id: 13
+    text: "The Internet is a very _______ tool for finding information quickly."
+    options:
+      - text: "powerful"
+        is_correct: true
+        rationale: "'Powerful' 在这里形容工具‘功能强大’。"
+      - text: "spiky"
+        is_correct: false
+        rationale: "'Spiky' 指尖锐的，互联网不是尖锐的。"
+      - text: "weird"
+        is_correct: false
+        rationale: "'Weird' 指奇怪，虽然网上有奇怪的东西，但此处强调整体功能。"
+      - text: "odd"
+        is_correct: false
+        rationale: "'Odd' 也是奇怪的意思。"
+    hint: "如果一个东西非常有力量或非常有效，我们可以说它很 _______。"
+
+  - id: 14
+    text: "Ancient people told a _______ about a monster living in the mountain."
+    options:
+      - text: "tale"
+        is_correct: true
+        rationale: "'Tale' 指传说或故事，常用于描述古老或神奇的事迹。"
+      - text: "detail"
+        is_correct: false
+        rationale: "'Detail' 指细节，不符合语境。"
+      - text: "research"
+        is_correct: false
+        rationale: "古代人通常不进行科学 'research'（研究）。"
+      - text: "sequence"
+        is_correct: false
+        rationale: "'Sequence' 指顺序，不符合句意。"
+    hint: "奶奶讲的故事或者古老的传说在英语里叫什么？"
+
+  - id: 15
+    text: "In many cultures, a wedding is a very special _______."
+    options:
+      - text: "ceremony"
+        is_correct: true
+        rationale: "'Ceremony' 指仪式，婚礼是一种重要的社会仪式。"
+      - text: "injury"
+        is_correct: false
+        rationale: "'Injury' 是伤害，婚礼不是伤害。"
+      - text: "factory"
+        is_correct: false
+        rationale: "'Factory' 是工厂。"
+      - text: "fridge"
+        is_correct: false
+        rationale: "'Fridge' 是冰箱。"
+    hint: "正式的庆祝活动或者‘礼’在英语中叫什么？"
+
+  - id: 16
+    text: "Scientists use a _______ to study things that are too small to see."
+    options:
+      - text: "method"
+        is_correct: true
+        rationale: "'Method' 指方法，科学研究需要正确的方法。"
+      - text: "fridge"
+        is_correct: false
+        rationale: "冰箱是存食物的。"
+      - text: "jaw"
+        is_correct: false
+        rationale: "下颚是脸的一部分。"
+      - text: "camouflage"
+        is_correct: false
+        rationale: "伪装是用来躲藏的。"
+    hint: "做一件事的一套‘流程’或者‘手段’叫什么？"
+
+  - id: 17
+    text: "Modern robots can _______ difficult tasks in many car factories."
+    options:
+      - text: "operate"
+        is_correct: false
+        rationale: "'Operate' 通常指人操作机器，或者机器运转。但此处 'handle' 更贴切。"
+      - text: "handle"
+        is_correct: true
+        rationale: "'Handle' 指处理、应付，符合机器人应付复杂任务的语境。"
+      - text: "reflect"
+        is_correct: false
+        rationale: "'Reflect' 是反射，机器人不是在反射任务。"
+      - text: "assist"
+        is_correct: false
+        rationale: "虽然可以协助，但直接接任务对象时用 handle 更好。"
+    hint: "当你能‘搞定’一个困难的工作时，你在做什么？"
+
+  - id: 18
+    text: "The ocean _______ is home to millions of small plants and animals."
+    options:
+      - text: "society"
+        is_correct: false
+        rationale: "海洋生物没有人类意义上的‘社会’。"
+      - text: "surrounding"
+        is_correct: false
+        rationale: "'Surrounding' 指周围的环境，此处需要一个指代生态系统的词。"
+      - text: "coral"
+        is_correct: true
+        rationale: "'Coral'（珊瑚）是海洋生态的重要组成部分，是许多生物的家。"
+      - text: "media"
+        is_correct: false
+        rationale: "'Media' 是媒体。"
+    hint: "海底五颜六色的、像石头一样的生物叫什么？"
+
+  - id: 19
+    text: "It is important to be _______ when you meet someone for the first time."
+    options:
+      - text: "polite"
+        is_correct: true
+        rationale: "'Polite' 指有礼貌的，是初次见面时的基本要求。"
+      - text: "strange"
+        is_correct: false
+        rationale: "初次见面不应该‘奇怪’。"
+      - text: "odd"
+        is_correct: false
+        rationale: "‘古怪’也不合适。"
+      - text: "likely"
+        is_correct: false
+        rationale: "‘可能的’逻辑不通。"
+    hint: "如果你很有修养，别人会觉得你很 _______。"
+
+  - id: 20
+    text: "The new car _______ was very simple and easy to understand."
+    options:
+      - text: "design"
+        is_correct: true
+        rationale: "'Design' 指设计，指产品的外观或结构。"
+      - text: "drought"
+        is_correct: false
+        rationale: "汽车没有‘干旱’。"
+      - text: "destination"
+        is_correct: false
+        rationale: "汽车的设计不是它的目的地。"
+      - text: "ceremony"
+        is_correct: false
+        rationale: "汽车的仪式不符合句意。"
+    hint: "一个产品的外观和功能构思叫什么？"
+
+  - id: 21
+    text: "Drinking too much coffee might _______ your sleep tonight."
+    options:
+      - text: "affect"
+        is_correct: true
+        rationale: "'Affect' 作为动词，表示‘影响’。"
+      - text: "effect"
+        is_correct: false
+        rationale: "此处需要动词，'Effect' 主要是名词。"
+      - text: "effort"
+        is_correct: false
+        rationale: "努力不符合语境。"
+      - text: "event"
+        is_correct: false
+        rationale: "事件不符合语境。"
+    hint: "这是一个动词，表示‘产生改变’。"
+
+  - id: 22
+    text: "The moon _______ the light from the sun back to Earth."
+    options:
+      - text: "reflects"
+        is_correct: true
+        rationale: "'Reflect' 指反射，月球本身不发光，是反射阳光。"
+      - text: "identifies"
+        is_correct: false
+        rationale: "月球不识别阳光。"
+      - text: "establishes"
+        is_correct: false
+        rationale: "月球不创立阳光。"
+      - text: "maintains"
+        is_correct: false
+        rationale: "月球不维持阳光。"
+    hint: "光线碰到镜子或者水面跳回来的动作叫什么？"
+
+  - id: 23
+    text: "In the desert, animals have found _______ ways to stay cool."
+    options:
+      - text: "incredible"
+        is_correct: true
+        rationale: "'Incredible' 指难以置信的、极好的，形容生存方式的奇妙。"
+      - text: "financial"
+        is_correct: false
+        rationale: "动物没有经济方式。"
+      - text: "daily"
+        is_correct: false
+        rationale: "虽然是每天，但此处强调整体方法的巧妙。"
+      - text: "simple"
+        is_correct: false
+        rationale: "有些方式非常复杂，用 'incredible' 更能体现生物的智慧。"
+    hint: "如果你看到一个让你惊叹‘哇’的事情，你会用哪个词？"
+
+  - id: 24
+    text: "Computers are _______ to help us work much faster than before."
+    options:
+      - text: "able"
+        is_correct: true
+        rationale: "be able to 指‘能够’。"
+      - text: "likely"
+        is_correct: false
+        rationale: "虽然可能，但句意更强调能力。"
+      - text: "odd"
+        is_correct: false
+        rationale: "不符合逻辑。"
+      - text: "past"
+        is_correct: false
+        rationale: "不符合逻辑。"
+    hint: "‘能够做某事’的固定词组是什么？"
+
+  - id: 25
+    text: "We need to _______ the source of the problem before we can fix it."
+    options:
+      - text: "identify"
+        is_correct: true
+        rationale: "'Identify' 指识别、确定，符合‘找准问题根源’的语境。"
+      - text: "ignore"
+        is_correct: false
+        rationale: "修理前不能忽略问题。"
+      - text: "distract"
+        is_correct: false
+        rationale: "不符合句意。"
+      - text: "motivate"
+        is_correct: false
+        rationale: "不符合句意。"
+    hint: "如果你在人群中‘认出’了你的朋友，你就是在 _______ 他。"
+
+  - id: 26
+    text: "Despite the bad weather, the ship continued its _______ across the sea."
+    options:
+      - text: "journey"
+        is_correct: true
+        rationale: "'Journey' 指旅程，通常指较长时间或长距离的旅行。"
+      - text: "factory"
+        is_correct: false
+        rationale: "工厂不能在海上走。"
+      - text: "jaw"
+        is_correct: false
+        rationale: "不符合语境。"
+      - text: "pattern"
+        is_correct: false
+        rationale: "不符合语境。"
+    hint: "从一个地方去到另一个地方的漫长过程叫什么？"
+
+  - id: 27
+    text: "Exercise can _______ your energy and make you feel much better."
+    options:
+      - text: "boost"
+        is_correct: true
+        rationale: "'Boost' 指提升、增强，常用于能量、情绪或经济的增长。"
+      - text: "blame"
+        is_correct: false
+        rationale: "运动不会责备能量。"
+      - text: "ignore"
+        is_correct: false
+        rationale: "不符合句意。"
+      - text: "settle"
+        is_correct: false
+        rationale: "不符合句意。"
+    hint: "如果你想让某样东西‘更上一层楼’，你在做什么？"
+
+  - id: 28
+    text: "The tiger is a powerful _______ that many other animals fear."
+    options:
+      - text: "creature"
+        is_correct: true
+        rationale: "'Creature' 指生物，常用来描述自然界中的动物。"
+      - text: "society"
+        is_correct: false
+        rationale: "老虎不是社会。"
+      - text: "media"
+        is_correct: false
+        rationale: "老虎不是媒体。"
+      - text: "source"
+        is_correct: false
+        rationale: "老虎不是来源。"
+    hint: "大自然中所有‘活着的东西’都可以被称为 _______。"
+
+  - id: 29
+    text: "It is a _______ for many families to eat dinner together every evening."
+    options:
+      - text: "tradition"
+        is_correct: true
+        rationale: "'Tradition' 指传统或习惯，描述一种长期坚持的行为方式。"
+      - text: "injury"
+        is_correct: false
+        rationale: "吃晚饭不是伤害。"
+      - text: "drought"
+        is_correct: false
+        rationale: "吃晚饭不是干旱。"
+      - text: "forecast"
+        is_correct: false
+        rationale: "吃晚饭不是预报。"
+    hint: "如果一个习俗传了很多年，它就是一种 _______。"
+
+  - id: 30
+    text: "The police are looking for more _______ about the car accident."
+    options:
+      - text: "details"
+        is_correct: true
+        rationale: "'Details' 指细节、详情，符合调查需要的信息特征。"
+      - text: "fridges"
+        is_correct: false
+        rationale: "警察不找冰箱。"
+      - text: "jaws"
+        is_correct: false
+        rationale: "警察不找下颚。"
+      - text: "factories"
+        is_correct: false
+        rationale: "除非事故在工厂，否则不需要找很多工厂。"
+    hint: "如果你想知道一件事的所有‘小地方’，你在寻找 _______。"
+
+  - id: 31
+    text: "Technology _______ very quickly, so we must keep learning new things."
+    options:
+      - text: "advances"
+        is_correct: true
+        rationale: "'Advance' 指进步、前进，常用于形容技术或社会的发展。"
+      - text: "blames"
+        is_correct: false
+        rationale: "技术不会责备。"
+      - text: "ignores"
+        is_correct: false
+        rationale: "不符合句意。"
+      - text: "exists"
+        is_correct: false
+        rationale: "虽然存在，但 'advances' 更能体现‘快’。"
+    hint: "如果一个东西变得越来越先进，它就是在 _______。"
+
+  - id: 32
+    text: "Many people move to the city in search of a better _______."
+    options:
+      - text: "financial"
+        is_correct: false
+        rationale: "需要名词，'Financial' 是形容词。"
+      - text: "situation"
+        is_correct: true
+        rationale: "'Situation' 指情况、处境，符合追求更好生活质量的语境。"
+      - text: "drought"
+        is_correct: false
+        rationale: "没人为了找干旱去城市。"
+      - text: "forecast"
+        is_correct: false
+        rationale: "不是为了找预报。"
+    hint: "你现在所处的‘环境’或者‘状态’在英语里怎么说？"
+
+  - id: 33
+    text: "The shop will _______ the package to your home by tomorrow morning."
+    options:
+      - text: "deliver"
+        is_correct: true
+        rationale: "'Deliver' 指投递、运送，是电商和物流的常用词。"
+      - text: "distract"
+        is_correct: false
+        rationale: "商店不会让你的包裹分心。"
+      - text: "motivate"
+        is_correct: false
+        rationale: "不符合逻辑。"
+      - text: "blame"
+        is_correct: false
+        rationale: "不符合逻辑。"
+    hint: "快递员的工作就是将东西 _______ 给客户。"
+
+  - id: 34
+    text: "It was so cold that the water in the bucket began to _______."
+    options:
+      - text: "flood"
+        is_correct: false
+        rationale: "太冷了会结冰，不是洪水。"
+      - text: "strike"
+        is_correct: false
+        rationale: "不符合语境。"
+      - text: "remain"
+        is_correct: false
+        rationale: "句子应该表达一种变化。"
+      - text: "freeze"
+        is_correct: true
+        rationale: "'Freeze' 指结冰、冻住（注：词汇表中虽然没写这个，但在 RE 1 级天气话题中必考）。"
+    hint: "水变成冰的过程叫什么？"
+
+  - id: 35
+    text: "I forgot to put the milk back in the _______, so it went bad."
+    options:
+      - text: "factory"
+        is_correct: false
+        rationale: "牛奶不存放在工厂里（如果是买了之后的话）。"
+      - text: "fridge"
+        is_correct: true
+        rationale: "'Fridge' 指冰箱，是保存易腐食物的地方。"
+      - text: "jaw"
+        is_correct: false
+        rationale: "不符合常识。"
+      - text: "source"
+        is_correct: false
+        rationale: "不符合常识。"
+    hint: "厨房里冰冰凉凉放饮料的地方叫什么？"
+
+  - id: 36
+    text: "The bird flew _______ the mountain to find its nest."
+    options:
+      - text: "toward"
+        is_correct: true
+        rationale: "'Toward' 指朝着、向着某个方向。"
+      - text: "meanwhile"
+        is_correct: false
+        rationale: "这是副词，意思是‘与此同时’。"
+      - text: "such"
+        is_correct: false
+        rationale: "意思不符。"
+      - text: "once"
+        is_correct: false
+        rationale: "意思不符。"
+    hint: "如果你看着一个方向走过去，你在朝（_______）那个方向走。"
+
+  - id: 37
+    text: "Modern _______ makes our daily life much easier and more comfortable."
+    options:
+      - text: "society"
+        is_correct: true
+        rationale: "'Society' 指社会，现代社会提供了很多便利。"
+      - text: "drought"
+        is_correct: false
+        rationale: "干旱不会让生活舒服。"
+      - text: "injury"
+        is_correct: false
+        rationale: "伤害不会让生活舒服。"
+      - text: "camouflage"
+        is_correct: false
+        rationale: "不符合语境。"
+    hint: "由人组成的、共同生活的庞大群体叫什么？"
+
+  - id: 38
+    text: "I can _______ finish my homework in two hours if I don't play games."
+    options:
+      - text: "probably"
+        is_correct: true
+        rationale: "'Probably' 表示‘大概、可能’，用于表达较大的可能性。"
+      - text: "daily"
+        is_correct: false
+        rationale: "‘每天’放在此处语法不通。"
+      - text: "odd"
+        is_correct: false
+        rationale: "不符合逻辑。"
+      - text: "simple"
+        is_correct: false
+        rationale: "这是形容词，此处需要副词。"
+    hint: "表示‘极有可能’的一个副词是什么？"
+
+  - id: 39
+    text: "The pattern on the butterfly's wings is very _______ and beautiful."
+    options:
+      - text: "unique"
+        is_correct: true
+        rationale: "'Unique' 指独一无二的，常用来形容生物独特的图案。"
+      - text: "financial"
+        is_correct: false
+        rationale: "蝴蝶翅膀没有经济属性。"
+      - text: "likely"
+        is_correct: false
+        rationale: "不符合语境。"
+      - text: "daily"
+        is_correct: false
+        rationale: "不符合描述图案的特征。"
+    hint: "如果这世界上只有一个东西长成这样，它就是 _______ 的。"
+
+  - id: 40
+    text: "It is important to _______ your health by eating good food."
+    options:
+      - text: "maintain"
+        is_correct: true
+        rationale: "'Maintain' 指维持、保持，符合健康管理的语境。"
+      - text: "ignore"
+        is_correct: false
+        rationale: "不应忽略健康。"
+      - text: "distract"
+        is_correct: false
+        rationale: "不符合逻辑。"
+      - text: "forecast"
+        is_correct: false
+        rationale: "不符合逻辑。"
+    hint: "如果你想让一个好的状态‘一直持续下去’，你在 _______ 它。"
+
+  - id: 41
+    text: "The fish has _______ skin that protects it from other sea animals."
+    options:
+      - text: "spiky"
+        is_correct: true
+        rationale: "'Spiky' 指尖锐的、有刺的，是一种防御特征。"
+      - text: "simple"
+        is_correct: false
+        rationale: "简单的皮肤通常起不到这种保护作用。"
+      - text: "likely"
+        is_correct: false
+        rationale: "语法不通。"
+      - text: "odd"
+        is_correct: false
+        rationale: "虽然奇怪，但 'spiky' 更具描述性。"
+    hint: "像仙人掌那样长满了小尖刺的词怎么写？"
+
+  - id: 42
+    text: "A lot of people today use _______ to watch news and movies."
+    options:
+      - text: "media"
+        is_correct: true
+        rationale: "'Media' 指媒体（电视、互联网等），是获取信息的渠道。"
+      - text: "organism"
+        is_correct: false
+        rationale: "人们不用微生物看电影。"
+      - text: "drought"
+        is_correct: false
+        rationale: "不用干旱看电影。"
+      - text: "camouflage"
+        is_correct: false
+        rationale: "不用伪装看电影。"
+    hint: "报纸、电视、网络统称为什么？"
+
+  - id: 43
+    text: "If you don't sleep enough, you will _______ feel tired the next day."
+    options:
+      - text: "definitely"
+        is_correct: true
+        rationale: "'Definitely' 指肯定地、毫无疑问地。"
+      - text: "oddly"
+        is_correct: false
+        rationale: "‘古怪地’不符合逻辑。"
+      - text: "likely"
+        is_correct: false
+        rationale: "虽然可能，但 'definitely' 更符合‘睡眠不足’的直接结果。"
+      - text: "past"
+        is_correct: false
+        rationale: "语法不通。"
+    hint: "当你百分之百确定一件事会发生时，你会用哪个副词？"
+
+  - id: 44
+    text: "The small _______ was too tiny to see without a microscope."
+    options:
+      - text: "organism"
+        is_correct: true
+        rationale: "'Organism' 指微小的生物或有机体。"
+      - text: "factory"
+        is_correct: false
+        rationale: "工厂很大，肉眼可见。"
+      - text: "society"
+        is_correct: false
+        rationale: "社会不是微小的。"
+      - text: "destination"
+        is_correct: false
+        rationale: "不符合语境。"
+    hint: "科学实验中，那些极小的生命体叫什么？"
+
+  - id: 45
+    text: "She was very _______ and helped the old lady carry her bags."
+    options:
+      - text: "polite"
+        is_correct: true
+        rationale: "帮助他人是 'polite'（有礼貌/有教养）的表现。"
+      - text: "strange"
+        is_correct: false
+        rationale: "不符合语境。"
+      - text: "odd"
+        is_correct: false
+        rationale: "不符合语境。"
+      - text: "spiky"
+        is_correct: false
+        rationale: "人不是尖锐的。"
+    hint: "形容一个人懂礼节、乐于助人的词是什么？"
+
+  - id: 46
+    text: "The company will _______ a new school in this small village."
+    options:
+      - text: "establish"
+        is_correct: true
+        rationale: "'Establish' 指建立、创立（机构、公司、学校等）。"
+      - text: "ignore"
+        is_correct: false
+        rationale: "忽略学校不符合句意。"
+      - text: "distract"
+        is_correct: false
+        rationale: "不符合逻辑。"
+      - text: "deliver"
+        is_correct: false
+        rationale: "通常不递送一个学校。"
+    hint: "‘创办’或者‘设立’一个组织，可以用哪个正式的词？"
+
+  - id: 47
+    text: "I finished my homework _______ after I got home from school."
+    options:
+      - text: "immediately"
+        is_correct: true
+        rationale: "'Immediately' 指立刻、马上。"
+      - text: "probably"
+        is_correct: false
+        rationale: "‘大概’表达的是可能性，而非时间速度。"
+      - text: "meanwhile"
+        is_correct: false
+        rationale: "‘与此同时’需要另一个动作做对比。"
+      - text: "daily"
+        is_correct: false
+        rationale: "‘每天’通常不放在这个位置形容刚到家。"
+    hint: "如果你一秒钟都不耽误，你是 _______ 开始做的。"
+
+  - id: 48
+    text: "His bad _______ was caused by not getting enough sleep."
+    options:
+      - text: "mood"
+        is_correct: true
+        rationale: "'Mood' 指情绪、心情。"
+      - text: "factory"
+        is_correct: false
+        rationale: "没有坏工厂。"
+      - text: "destination"
+        is_correct: false
+        rationale: "没有坏目的地。"
+      - text: "detail"
+        is_correct: false
+        rationale: "不符合语境。"
+    hint: "你今天开心或者不开心，指的是你的 _______ 不好。"
+
+  - id: 49
+    text: "The _______ of birds is a long journey that happens every year."
+    options:
+      - text: "migration"
+        is_correct: true
+        rationale: "'Migration' 指（候鸟、动物）的季节性迁徙。"
+      - text: "media"
+        is_correct: false
+        rationale: "鸟没有媒体。"
+      - text: "politic"
+        is_correct: false
+        rationale: "鸟没有政治。"
+      - text: "fridge"
+        is_correct: false
+        rationale: "鸟没有冰箱。"
+    hint: "冬天往南飞，春天往北飞，这种大规模的移动叫什么？"
+
+  - id: 50
+    text: "The shark's _______ is very strong and can bite through many things."
+    options:
+      - text: "jaw"
+        is_correct: true
+        rationale: "'Jaw' 指下颚，是鲨鱼撕咬的核心部位。"
+      - text: "destination"
+        is_correct: false
+        rationale: "目的地不能咬东西。"
+      - text: "fridge"
+        is_correct: false
+        rationale: "冰箱不能咬东西。"
+      - text: "pattern"
+        is_correct: false
+        rationale: "图案不能咬东西。"
+    hint: "你脸上负责吃东西、嚼东西的那两块骨头叫什么？"
+
+  - id: 51
+    text: "The population of the city is expected to _______ rapidly over the next ten years."
+    options:
+      - text: "increase"
+        is_correct: true
+        rationale: "'Increase' 指增长，常用于描述人口、数量或水平的提升。"
+      - text: "decrease"
+        is_correct: false
+        rationale: "'Decrease' 是减少，虽然语法对但与 'rapidly' 组合常指增长语境。"
+      - text: "blame"
+        is_correct: false
+        rationale: "责备人口不符合逻辑。"
+      - text: "forecast"
+        is_correct: false
+        rationale: "动词预报后面通常接具体内容，而非直接描述人口变化。"
+    hint: "如果一个数字变得越来越大，它在做什么？"
+
+  - id: 52
+    text: "In _______ years, many people have started to use electric cars to protect the air."
+    options:
+      - text: "recent"
+        is_correct: true
+        rationale: "'Recent' 指最近的，'recent years' 是一个非常常用的词组。"
+      - text: "future"
+        is_correct: false
+        rationale: "已经开始发生的事不能用 'future'（未来）。"
+      - text: "past"
+        is_correct: false
+        rationale: "虽然是过去，但 'recent' 更强调距离现在很近。"
+      - text: "likely"
+        is_correct: false
+        rationale: "形容词词性不符。"
+    hint: "用来描述‘离现在不远的时间’的词是什么？"
+
+  - id: 53
+    text: "You should not _______ others for your own mistakes; take responsibility."
+    options:
+      - text: "blame"
+        is_correct: true
+        rationale: "'Blame' 指因为某事不好而责备他人。"
+      - text: "assist"
+        is_correct: false
+        rationale: "不应协助他人犯错，但此处强调责任归属。"
+      - text: "praise"
+        is_correct: false
+        rationale: "'Praise' 是表扬，不符合‘错误’的语境。"
+      - text: "deliver"
+        is_correct: false
+        rationale: "词义完全不符。"
+    hint: "当你做错事却说是别人的错，你在 _______ 他们。"
+
+  - id: 54
+    text: "The company had some _______ problems because it spent too much money last year."
+    options:
+      - text: "financial"
+        is_correct: true
+        rationale: "'Financial' 指金融的、经济的，与金钱花费直接相关。"
+      - text: "social"
+        is_correct: false
+        rationale: "社交问题通常不直接指代金钱短缺。"
+      - text: "global"
+        is_correct: false
+        rationale: "虽然可能是全球的，但此处强调具体的金钱问题。"
+      - text: "independent"
+        is_correct: false
+        rationale: "不符合句意。"
+    hint: "如果一个问题是关于‘钱’的，它是一个什么问题？"
+
+  - id: 55
+    text: "The crops died because the region suffered from a long _______."
+    options:
+      - text: "drought"
+        is_correct: true
+        rationale: "'Drought' 指干旱，是导致作物死亡的常见自然灾害。"
+      - text: "flood"
+        is_correct: false
+        rationale: "洪水虽然也会导致作物死亡，但通常说‘淹死’而非干旱导致的枯死。"
+      - text: "event"
+        is_correct: false
+        rationale: "太笼统。"
+      - text: "strike"
+        is_correct: false
+        rationale: "指罢工或袭击。"
+    hint: "如果天不下雨，土地很干，这种情况叫什么？"
+
+  - id: 56
+    text: "If the old batteries stop working, you need to _______ them with new ones."
+    options:
+      - text: "replace"
+        is_correct: true
+        rationale: "'Replace' 指替换、更换。"
+      - text: "repair"
+        is_correct: false
+        rationale: "电池通常不修理，而是更换。"
+      - text: "repeat"
+        is_correct: false
+        rationale: "重复不符合逻辑。"
+      - text: "reflect"
+        is_correct: false
+        rationale: "反射不符合逻辑。"
+    hint: "拿一个旧的东西换一个新的，你在做什么？"
+
+  - id: 57
+    text: "The soccer player had to leave the game because of a serious leg _______."
+    options:
+      - text: "injury"
+        is_correct: true
+        rationale: "'Injury' 指（身体上的）伤害、受伤。"
+      - text: "event"
+        is_correct: false
+        rationale: "比赛是一个 event，但退赛是因为受伤。"
+      - text: "detail"
+        is_correct: false
+        rationale: "不符合句意。"
+      - text: "mood"
+        is_correct: false
+        rationale: "心情不好通常不直接导致退赛。"
+    hint: "如果你在运动时弄伤了腿，你得了一次什么？"
+
+  - id: 58
+    text: "Please _______ the cup with water and give it to the guest."
+    options:
+      - text: "fill"
+        is_correct: true
+        rationale: "fill with 指填满、装满。"
+      - text: "contain"
+        is_correct: false
+        rationale: "杯子 contain 水，但你 fill 杯子。"
+      - text: "suck"
+        is_correct: false
+        rationale: "吸水不符合待客礼仪。"
+      - text: "form"
+        is_correct: false
+        rationale: "不符合语境。"
+    hint: "往空杯子里倒水，直到倒满，你在干什么？"
+
+  - id: 59
+    text: "When it gets very cold, ice _______ on the surface of the lake."
+    options:
+      - text: "forms"
+        is_correct: true
+        rationale: "'Form' 在这里是动词，指形成、产生。"
+      - text: "replaces"
+        is_correct: false
+        rationale: "冰没有‘替代’湖面，它是‘在湖面上形成’。"
+      - text: "distracts"
+        is_correct: false
+        rationale: "不符合逻辑。"
+      - text: "handles"
+        is_correct: false
+        rationale: "不符合逻辑。"
+    hint: "当一个小东西慢慢变大、变完整，它在（_______）成形。"
+
+  - id: 60
+    text: "The professor spent ten years doing _______ on deep-sea fish."
+    options:
+      - text: "research"
+        is_correct: true
+        rationale: "'Research' 指学术研究、调查。"
+      - text: "tale"
+        is_correct: false
+        rationale: "教授不花十年讲一个童话。"
+      - text: "appearance"
+        is_correct: false
+        rationale: "外表不需要‘做’十年。"
+      - text: "movement"
+        is_correct: false
+        rationale: "通常说 study the movement。"
+    hint: "科学家为了发现新知识而做的工作叫什么？"
+
+  - id: 61
+    text: "Eating too much sugar can _______ health problems in the future."
+    options:
+      - text: "lead to"
+        is_correct: true
+        rationale: "'Lead to' 指导致、引起。"
+      - text: "assist"
+        is_correct: false
+        rationale: "糖不会‘协助’健康问题。"
+      - text: "ignore"
+        is_correct: false
+        rationale: "糖不会‘忽略’问题。"
+      - text: "deliver"
+        is_correct: false
+        rationale: "不符合句意。"
+    hint: "如果一个行为产生了一个结果，这个行为（_______）向那个结果。"
+
+  - id: 62
+    text: "It is very _______ to see snow in the desert; it almost never happens."
+    options:
+      - text: "unusual"
+        is_correct: true
+        rationale: "'Unusual' 指不寻常的、罕见的。"
+      - text: "ordinary"
+        is_correct: false
+        rationale: "沙漠下雪并不‘平常’。"
+      - text: "daily"
+        is_correct: false
+        rationale: "并不是‘每天的’。"
+      - text: "likely"
+        is_correct: false
+        rationale: "并不‘可能’。"
+    hint: "如果一件事极少发生，它是 _______ 的。"
+
+  - id: 63
+    text: "If you don't bring your umbrella, you will _______ get wet in the rain."
+    options:
+      - text: "probably"
+        is_correct: true
+        rationale: "'Probably' 表示很可能、大概。"
+      - text: "once"
+        is_correct: false
+        rationale: "指‘曾经’或‘一次’。"
+      - text: "simple"
+        is_correct: false
+        rationale: "不符合副词用法。"
+      - text: "meanwhile"
+        is_correct: false
+        rationale: "指‘与此同时’。"
+    hint: "当你预测一件事有 70% 的机会发生，你会说它 _______ 会发生。"
+
+  - id: 64
+    text: "Architects need to _______ buildings that are strong and safe."
+    options:
+      - text: "design"
+        is_correct: true
+        rationale: "'Design' 指设计、构思。"
+      - text: "operate"
+        is_correct: false
+        rationale: "建筑师设计建筑，工人们操作机器建造它。"
+      - text: "contain"
+        is_correct: false
+        rationale: "建筑师本身不‘包含’建筑。"
+      - text: "exercise"
+        is_correct: false
+        rationale: "不符合句意。"
+    hint: "在动工建造之前，你需要先画图和 _______。"
+
+  - id: 65
+    text: "Many people work in this _______ to make parts for airplanes."
+    options:
+      - text: "factory"
+        is_correct: true
+        rationale: "'Factory' 指工厂，是制造产品的地方。"
+      - text: "destination"
+        is_correct: false
+        rationale: "工厂是一个目的地，但此处强调工作场所的性质。"
+      - text: "fridge"
+        is_correct: false
+        rationale: "不符合常识。"
+      - text: "tradition"
+        is_correct: false
+        rationale: "不符合常识。"
+    hint: "一个巨大的、里面有很多工人和机器的建筑叫什么？"
+
+  - id: 66
+    text: "The _______ temperature in the desert can be very high during the day."
+    options:
+      - text: "average"
+        is_correct: true
+        rationale: "'Average' 指平均的、正常的。"
+      - text: "simple"
+        is_correct: false
+        rationale: "温度通常不描述为‘简单的’。"
+      - text: "likely"
+        is_correct: false
+        rationale: "形容词词义不符。"
+      - text: "daily"
+        is_correct: false
+        rationale: "虽然是每天，但此处强调统计上的‘平均’概念。"
+    hint: "把最高和最低加起来除以二，得到的是什么数？"
+
+  - id: 67
+    text: "Humans are _______ animals; we like to live and talk with other people."
+    options:
+      - text: "social"
+        is_correct: true
+        rationale: "'Social' 指社交的、社会的，强调群居天性。"
+      - text: "global"
+        is_correct: false
+        rationale: "虽然人类是全球性的，但此处强调互动。"
+      - text: "independent"
+        is_correct: false
+        rationale: "指独立的，与‘喜欢群居’相反。"
+      - text: "powerful"
+        is_correct: false
+        rationale: "不符合此处的对比逻辑。"
+    hint: "如果你喜欢交朋友、聚会，你是一个很 _______ 的人。"
+
+  - id: 68
+    text: "This small box can _______ up to twenty small toys."
+    options:
+      - text: "contain"
+        is_correct: true
+        rationale: "'Contain' 指包含、容纳。"
+      - text: "fill"
+        is_correct: false
+        rationale: "你 fill 盒子，盒子 contain 玩具。"
+      - text: "handle"
+        is_correct: false
+        rationale: "指处理，不指代物理容纳。"
+      - text: "deliver"
+        is_correct: false
+        rationale: "盒子可以用来递送，但 'contain' 描述容积。"
+    hint: "如果一个容器里面放了东西，它就（_______）那些东西。"
+
+  - id: 69
+    text: "The zebra has a unique _______ of black and white stripes."
+    options:
+      - text: "pattern"
+        is_correct: true
+        rationale: "'Pattern' 指图案、模式。"
+      - text: "texture"
+        is_correct: false
+        rationale: "斑马的纹路是视觉上的 pattern，而非触觉上的 texture（虽然也有）。"
+      - text: "design"
+        is_correct: false
+        rationale: "自然界的通常不叫 design，而叫 pattern。"
+      - text: "movement"
+        is_correct: false
+        rationale: "条纹不是一种动作。"
+    hint: "不断重复的图形或颜色组成的画面叫什么？"
+
+  - id: 70
+    text: "The internet has changed the way of _______ between people in different countries."
+    options:
+      - text: "communication"
+        is_correct: true
+        rationale: "'Communication' 指交流、沟通。"
+      - text: "conversation"
+        is_correct: false
+        rationale: "对话只是沟通的一种形式，communication 范围更广。"
+      - text: "media"
+        is_correct: false
+        rationale: "媒体是工具，交流是过程。"
+      - text: "society"
+        is_correct: false
+        rationale: "不符合句意。"
+    hint: "人与人之间交换信息的过程叫什么？"
+
+  - id: 71
+    text: "Teaching children with games is a very effective _______ of education."
+    options:
+      - text: "method"
+        is_correct: true
+        rationale: "'Method' 指方法。"
+      - text: "fact"
+        is_correct: false
+        rationale: "事实不符合语境。"
+      - text: "target"
+        is_correct: false
+        rationale: "目标不符合语境。"
+      - text: "source"
+        is_correct: false
+        rationale: "不符合语境。"
+    hint: "如果你有一种独特的‘招式’去做某事，那就是你的 _______。"
+
+  - id: 72
+    text: "The nurse will _______ the doctor during the difficult operation."
+    options:
+      - text: "assist"
+        is_correct: true
+        rationale: "'Assist' 指协助、帮助。"
+      - text: "handle"
+        is_correct: false
+        rationale: "通常护士协助医生，医生主刀（handle）。"
+      - text: "ignore"
+        is_correct: false
+        rationale: "手术中不能忽略医生。"
+      - text: "reflect"
+        is_correct: false
+        rationale: "不符合语境。"
+    hint: "当一个副手帮助主手做事时，他在 _______ 主手。"
+
+  - id: 73
+    text: "The great white shark is a powerful _______ in the ocean."
+    options:
+      - text: "predator"
+        is_correct: true
+        rationale: "'Predator' 指食肉动物、捕食者。"
+      - text: "organism"
+        is_correct: false
+        rationale: "太笼统。"
+      - text: "creature"
+        is_correct: false
+        rationale: "虽然对，但 'predator' 更精准地体现了鲨鱼的地位。"
+      - text: "ancestor"
+        is_correct: false
+        rationale: "指祖先。"
+    hint: "在食物链顶端、猎杀其他动物的生物叫什么？"
+
+  - id: 74
+    text: "A mirror _______ your image so you can see yourself."
+    options:
+      - text: "reflects"
+        is_correct: true
+        rationale: "'Reflect' 指反射。"
+      - text: "identifies"
+        is_correct: false
+        rationale: "镜子不识别你。"
+      - text: "maintains"
+        is_correct: false
+        rationale: "镜子不维持你。"
+      - text: "attracts"
+        is_correct: false
+        rationale: "镜子不吸引你（物理上）。"
+    hint: "当你对着镜子，你的样子会‘跳’回到你眼里，这是因为光的 _______。"
+
+  - id: 75
+    text: "Firefighters must learn how to _______ dangerous fires safely."
+    options:
+      - text: "handle"
+        is_correct: true
+        rationale: "'Handle' 指处理、应对。"
+      - text: "ignore"
+        is_correct: false
+        rationale: "消防员不能忽略火灾。"
+      - text: "motivate"
+        is_correct: false
+        rationale: "火不需要动力。"
+      - text: "boost"
+        is_correct: false
+        rationale: "不能增强火势。"
+    hint: "当你接手一个麻烦并试图解决它，你在 _______ 它。"
+
+  - id: 76
+    text: "The _______ of the new museum is very modern and beautiful."
+    options:
+      - text: "appearance"
+        is_correct: true
+        rationale: "'Appearance' 指外表、外观。"
+      - text: "condition"
+        is_correct: false
+        rationale: "指状况，不仅是外表。"
+      - text: "tradition"
+        is_correct: false
+        rationale: "现代建筑通常不被称为传统。"
+      - text: "detail"
+        is_correct: false
+        rationale: "通常说 the details of the appearance。"
+    hint: "你第一眼看到的某样东西的‘长相’叫什么？"
+
+  - id: 77
+    text: "The _______ of a snake's skin feels very smooth and dry."
+    options:
+      - text: "texture"
+        is_correct: true
+        rationale: "'Texture' 指质感、纹理。"
+      - text: "pattern"
+        is_correct: false
+        rationale: "虽然蛇皮有 pattern，但描述‘摸起来’（feels）用 texture。"
+      - text: "design"
+        is_correct: false
+        rationale: "不符合语境。"
+      - text: "mood"
+        is_correct: false
+        rationale: "不符合语境。"
+    hint: "用手摸一个东西，它表面的‘感觉’叫什么？"
+
+  - id: 78
+    text: "The cactus is a _______ plant that can hurt you if you touch it."
+    options:
+      - text: "spiky"
+        is_correct: true
+        rationale: "'Spiky' 指尖锐的、长满刺的。"
+      - text: "simple"
+        is_correct: false
+        rationale: "不符合描述防御特征。"
+      - text: "polite"
+        is_correct: false
+        rationale: "植物没有礼貌一说。"
+      - text: "global"
+        is_correct: false
+        rationale: "不符合语境。"
+    hint: "像针一样扎人的样子在英语里怎么写？"
+
+  - id: 79
+    text: "Going to Mars would be a very long and dangerous _______ for humans."
+    options:
+      - text: "journey"
+        is_correct: true
+        rationale: "'Journey' 指漫长的旅程。"
+      - text: "destination"
+        is_correct: false
+        rationale: "火星是目的地，去火星的过程是 journey。"
+      - text: "factory"
+        is_correct: false
+        rationale: "不符合常识。"
+      - text: "ceremony"
+        is_correct: false
+        rationale: "不符合常识。"
+    hint: "如果你花好几个月时间去远方，你在进行一次 _______。"
+
+  - id: 80
+    text: "Children should be _______ and say 'thank you' when they get a gift."
+    options:
+      - text: "polite"
+        is_correct: true
+        rationale: "'Polite' 指有礼貌的。"
+      - text: "strange"
+        is_correct: false
+        rationale: "不合逻辑。"
+      - text: "unusual"
+        is_correct: false
+        rationale: "不合逻辑。"
+      - text: "independent"
+        is_correct: false
+        rationale: "虽然应该独立，但说谢谢是礼貌。"
+    hint: "懂规矩、讨人喜欢的性格是什么？"
+
+  - id: 81
+    text: "The little bird tried to _______ from the hungry cat."
+    options:
+      - text: "escape"
+        is_correct: true
+        rationale: "'Escape' 指逃跑、逃脱。"
+      - text: "settle"
+        is_correct: false
+        rationale: "定居不符合被追捕的逻辑。"
+      - text: "assist"
+        is_correct: false
+        rationale: "不会协助猫。"
+      - text: "praise"
+        is_correct: false
+        rationale: "不会表扬猫。"
+    hint: "当你遇到危险，拼命跑开，你是在 _______。"
+
+  - id: 82
+    text: "Wearing white on your wedding day is a common _______ in many countries."
+    options:
+      - text: "tradition"
+        is_correct: true
+        rationale: "'Tradition' 指传统、习俗。"
+      - text: "injury"
+        is_correct: false
+        rationale: "不是伤害。"
+      - text: "forecast"
+        is_correct: false
+        rationale: "不是预报。"
+      - text: "drought"
+        is_correct: false
+        rationale: "不是干旱。"
+    hint: "老一辈传下来的规矩或习惯叫什么？"
+
+  - id: 83
+    text: "The doctor said the new medicine might have a side _______."
+    options:
+      - text: "effect"
+        is_correct: true
+        rationale: "'Effect' 指影响、效果，'side effect' 指副作用。"
+      - text: "effort"
+        is_correct: false
+        rationale: "药物本身不‘努力’。"
+      - text: "affect"
+        is_correct: false
+        rationale: "此处需要名词。"
+      - text: "event"
+        is_correct: false
+        rationale: "不是事件。"
+    hint: "当药物产生了你预料之外的结果，那是它的副作用（Side _______）。"
+
+  - id: 84
+    text: "Mobile phones can _______ you when you are trying to do your homework."
+    options:
+      - text: "distract"
+        is_correct: true
+        rationale: "'Distract' 指分散注意力、分心。"
+      - text: "motivate"
+        is_correct: false
+        rationale: "玩手机通常不会让你更有动力做作业。"
+      - text: "concentrate"
+        is_correct: false
+        rationale: "手机不会帮你专心。"
+      - text: "establish"
+        is_correct: false
+        rationale: "不符合句意。"
+    hint: "当你写作业时突然去刷抖音，你被抖音 _______ 了。"
+
+  - id: 85
+    text: "If you see a fire, you must call the police _______."
+    options:
+      - text: "immediately"
+        is_correct: true
+        rationale: "'Immediately' 指立刻、马上。"
+      - text: "probably"
+        is_correct: false
+        rationale: "‘大概’在紧急时刻不合逻辑。"
+      - text: "eventually"
+        is_correct: false
+        rationale: "‘最终’太晚了。"
+      - text: "meanwhile"
+        is_correct: false
+        rationale: "词义不符。"
+    hint: "在最紧急的时候，你需要（_______）行动。"
+
+  - id: 86
+    text: "Winning the first prize will _______ the students to work even harder."
+    options:
+      - text: "motivate"
+        is_correct: true
+        rationale: "'Motivate' 指激励、给……动力。"
+      - text: "distract"
+        is_correct: false
+        rationale: "获奖通常不叫分心。"
+      - text: "ignore"
+        is_correct: false
+        rationale: "不应忽略学生。"
+      - text: "identify"
+        is_correct: false
+        rationale: "不符合句意。"
+    hint: "如果你想让别人充满热情的去做一件事，你需要 _______ 他们。"
+
+  - id: 87
+    text: "I am in a very good _______ today because it is my birthday!"
+    options:
+      - text: "mood"
+        is_correct: true
+        rationale: "'Mood' 指心情、情绪。"
+      - text: "status"
+        is_correct: false
+        rationale: "状态太宽泛。"
+      - text: "pattern"
+        is_correct: false
+        rationale: "不合逻辑。"
+      - text: "appearance"
+        is_correct: false
+        rationale: "生日会让心情好，外表不一定变好。"
+    hint: "你心里的‘天气’，开心或忧伤，叫什么？"
+
+  - id: 88
+    text: "The government wants to _______ the economy by helping small businesses."
+    options:
+      - text: "boost"
+        is_correct: true
+        rationale: "'Boost' 指推动、提升。"
+      - text: "blame"
+        is_correct: false
+        rationale: "政府通常不责备自己想发展的经济。"
+      - text: "settle"
+        is_correct: false
+        rationale: "不符合语境。"
+      - text: "escape"
+        is_correct: false
+        rationale: "不符合语境。"
+    hint: "如果你想让一样东西‘火’起来或者‘涨’起来，你在给它一个 _______。"
+
+  - id: 89
+    text: "When you are driving a car, you must _______ on the road."
+    options:
+      - text: "concentrate"
+        is_correct: true
+        rationale: "'Concentrate' 指集中精神。"
+      - text: "distract"
+        is_correct: false
+        rationale: "开车不能分心。"
+      - text: "ignore"
+        is_correct: false
+        rationale: "不能忽略路况。"
+      - text: "motivate"
+        is_correct: false
+        rationale: "路不需要你激励。"
+    hint: "双眼盯着前方，大脑只思考开车，这叫（_______）注意力。"
+
+  - id: 90
+    text: "The explorers _______ found the lost city after searching for many years."
+    options:
+      - text: "eventually"
+        is_correct: true
+        rationale: "'Eventually' 指最终、最后（强调过程艰辛）。"
+      - text: "immediately"
+        is_correct: false
+        rationale: "找了多年不叫立刻找到。"
+      - text: "probably"
+        is_correct: false
+        rationale: "已经找到了，不再是‘大概’。"
+      - text: "meanwhile"
+        is_correct: false
+        rationale: "语法不通。"
+    hint: "经历了一万年，终于（_______）等到了你。"
+
+  - id: 91
+    text: "It is not good to _______ your parents when they are talking to you."
+    options:
+      - text: "ignore"
+        is_correct: true
+        rationale: "'Ignore' 指忽略、不理睬。"
+      - text: "motivate"
+        is_correct: false
+        rationale: "不理睬不是激励。"
+      - text: "distract"
+        is_correct: false
+        rationale: "不合逻辑。"
+      - text: "concentrate"
+        is_correct: false
+        rationale: "反义词。"
+    hint: "假装没听见，你在 _______ 他们。"
+
+  - id: 92
+    text: "Can you _______ this strange plant? I have never seen it before."
+    options:
+      - text: "identify"
+        is_correct: true
+        rationale: "'Identify' 指辨认、识别。"
+      - text: "ignore"
+        is_correct: false
+        rationale: "如果想知道它是什么，就不能忽略它。"
+      - text: "establish"
+        is_correct: false
+        rationale: "不需要‘建立’一个植物。"
+      - text: "boost"
+        is_correct: false
+        rationale: "不合逻辑。"
+    hint: "如果你在查字典看一个词的意思，你在试图 _______ 它。"
+
+  - id: 93
+    text: "The group decided to _______ a new club for people who like reading."
+    options:
+      - text: "establish"
+        is_correct: true
+        rationale: "'Establish' 指创立、建立。"
+      - text: "deliver"
+        is_correct: false
+        rationale: "不递送俱乐部。"
+      - text: "blame"
+        is_correct: false
+        rationale: "不责备俱乐部。"
+      - text: "ignore"
+        is_correct: false
+        rationale: "不忽略俱乐部。"
+    hint: "从无到有办起一个公司或社团，你在 _______ 它。"
+
+  - id: 94
+    text: "Many local shops will _______ from the new tourism project."
+    options:
+      - text: "benefit"
+        is_correct: true
+        rationale: "'Benefit' 指获益、得到好处。"
+      - text: "blame"
+        is_correct: false
+        rationale: "有项目通常不叫责备。"
+      - text: "attract"
+        is_correct: false
+        rationale: "商店吸引游客，但商店从项目中获益。"
+      - text: "settle"
+        is_correct: false
+        rationale: "不符合句意。"
+    hint: "如果你做一件事情得到了好处，你从中 _______ 了。"
+
+  - id: 95
+    text: "Climate change is a _______ problem that affects every country on Earth."
+    options:
+      - text: "global"
+        is_correct: true
+        rationale: "'Global' 指全球性的。"
+      - text: "independent"
+        is_correct: false
+        rationale: "气候变化是互相联系的，不是独立的。"
+      - text: "social"
+        is_correct: false
+        rationale: "虽然也是社会问题，但此处强调‘全球受影响’。"
+      - text: "simple"
+        is_correct: false
+        rationale: "一点也不简单。"
+    hint: "关系到整个地球的问题叫什么？"
+
+  - id: 96
+    text: "Flowers produce bright colors and sweet smells to _______ bees."
+    options:
+      - text: "attract"
+        is_correct: true
+        rationale: "'Attract' 指吸引。"
+      - text: "ignore"
+        is_correct: false
+        rationale: "花不会忽略蜜蜂。"
+      - text: "deliver"
+        is_correct: false
+        rationale: "花不会投递蜜蜂。"
+      - text: "identify"
+        is_correct: false
+        rationale: "不符合逻辑。"
+    hint: "如果你很漂亮，会让别人回头看你，你在 _______ 他们。"
+
+  - id: 97
+    text: "Every person has a _______ thumbprint; no two people are the same."
+    options:
+      - text: "unique"
+        is_correct: true
+        rationale: "'Unique' 指独一无二的。"
+      - text: "common"
+        is_correct: false
+        rationale: "指平常的，指代错误。"
+      - text: "financial"
+        is_correct: false
+        rationale: "不合逻辑。"
+      - text: "likely"
+        is_correct: false
+        rationale: "不合逻辑。"
+    hint: "这世界上找不出第二个一模一样的东西，说明它是 _______。"
+
+  - id: 98
+    text: "You must _______ the machine regularly to keep it working well."
+    options:
+      - text: "maintain"
+        is_correct: true
+        rationale: "'Maintain' 指保养、维持。"
+      - text: "ignore"
+        is_correct: false
+        rationale: "忽略机器会导致它坏掉。"
+      - text: "distract"
+        is_correct: false
+        rationale: "不能让机器分心。"
+      - text: "motivate"
+        is_correct: false
+        rationale: "不能激励机器。"
+    hint: "定期给机器加点油、洗洗干净，这叫 _______。"
+
+  - id: 99
+    text: "We should _______ our own ideas during the group meeting."
+    options:
+      - text: "contribute"
+        is_correct: true
+        rationale: "'Contribute' 指贡献、提供（想法、金钱或帮助）。"
+      - text: "blame"
+        is_correct: false
+        rationale: "不责备自己的想法。"
+      - text: "deliver"
+        is_correct: false
+        rationale: "通常不递送想法。"
+      - text: "settle"
+        is_correct: false
+        rationale: "不符合语境。"
+    hint: "当大家都出主意，你也提出了你的好主意，你在为集体做 _______。"
+
+  - id: 100
+    text: "I have _______ finish this report by 5 PM, or the boss will be angry."
+    options:
+      - text: "to"
+        is_correct: true
+        rationale: "have to 指‘不得不’。"
+      - text: "able"
+        is_correct: false
+        rationale: "be able to 指‘能’，此处强调压力用 have to。"
+      - text: "ready"
+        is_correct: false
+        rationale: "be ready to 指‘准备好做……’。"
+      - text: "likely"
+        is_correct: false
+        rationale: "不合语法。"
+    hint: "如果你被强迫去做某件事，你（_______）去做。"
+
+
+  - id: 101
+    text: "Scientists are not sure if life can _______ on other planets far away."
+    options:
+      - text: "exist"
+        is_correct: true
+        rationale: "'Exist' 指‘存在’，常用于讨论外星生命是否存在。"
+      - text: "replace"
+        is_correct: false
+        rationale: "'Replace' 是‘替换’，不符合句意。"
+      - text: "deliver"
+        is_correct: false
+        rationale: "'Deliver' 是‘递送’。"
+      - text: "polite"
+        is_correct: false
+        rationale: "'Polite' 是形容词‘有礼貌的’。"
+    hint: "如果你在问一个东西‘有没有’，你是在问它是否 _______。"
+
+  - id: 102
+    text: "The story follows a specific _______, starting from the past to the present."
+    options:
+      - text: "sequence"
+        is_correct: true
+        rationale: "'Sequence' 指‘顺序’，常用于描述事件发生的先后。"
+      - text: "detail"
+        is_correct: false
+        rationale: "'Detail' 指‘细节’。"
+      - text: "injury"
+        is_correct: false
+        rationale: "'Injury' 是‘伤害’。"
+      - text: "pattern"
+        is_correct: false
+        rationale: "'Pattern' 指‘图案’或‘模式’。"
+    hint: "1, 2, 3, 4... 这是一个数字的 _______。"
+
+  - id: 103
+    text: "It was a very _______ day; I saw a cat wearing a small hat!"
+    options:
+      - text: "odd"
+        is_correct: true
+        rationale: "'Odd' 指‘古怪的’、‘奇怪的’。"
+      - text: "simple"
+        is_correct: false
+        rationale: "猫戴帽子并不‘简单’，而是很罕见、奇怪。"
+      - text: "average"
+        is_correct: false
+        rationale: "'Average' 是‘平均的’、‘普通的’。"
+      - text: "daily"
+        is_correct: false
+        rationale: "这不是一件‘每天’都会发生的事。"
+    hint: "如果你看到一件让你觉得‘真奇怪’的事，你可以说它很 _______。"
+
+  - id: 104
+    text: "The _______ of the painting is very colorful and full of flowers."
+    options:
+      - text: "original"
+        is_correct: false
+        rationale: "此处需要名词，'original' 通常作形容词。"
+      - text: "appearance"
+        is_correct: true
+        rationale: "'Appearance' 指‘外表’或‘外观’。"
+      - text: "forecast"
+        is_correct: false
+        rationale: "画作没有‘预报’。"
+      - text: "drought"
+        is_correct: false
+        rationale: "画作没有‘干旱’。"
+    hint: "你第一眼看到的画的样子，就是它的 _______。"
+
+  - id: 105
+    text: "We can find many small _______ living in the soil of our backyard."
+    options:
+      - text: "organisms"
+        is_correct: true
+        rationale: "'Organism' 指‘生物’或‘有机体’，常指微小的生命。"
+      - text: "factories"
+        is_correct: false
+        rationale: "泥土里没有工厂。"
+      - text: "destinations"
+        is_correct: false
+        rationale: "不符合句意。"
+      - text: "situations"
+        is_correct: false
+        rationale: "不符合句意。"
+    hint: "显微镜下看到的微小生命体统称为什么？"
+
+  - id: 106
+    text: "The _______ for this new building came from ancient Greek houses."
+    options:
+      - text: "design"
+        is_correct: true
+        rationale: "'Design' 指‘设计’，也可以指设计的灵感来源。"
+      - text: "mood"
+        is_correct: false
+        rationale: "建筑没有‘情绪’。"
+      - text: "drought"
+        is_correct: false
+        rationale: "不符合逻辑。"
+      - text: "camouflage"
+        is_correct: false
+        rationale: "不符合语境。"
+    hint: "建筑师在造楼之前画的草图和构思叫什么？"
+
+  - id: 107
+    text: "It is _______ that more people will move to big cities for better jobs."
+    options:
+      - text: "likely"
+        is_correct: true
+        rationale: "'Likely' 表示‘可能的’。"
+      - text: "definitely"
+        is_correct: false
+        rationale: "虽然很有可能，但 'likely' 在这种句式中作为形容词更常用。"
+      - text: "immediately"
+        is_correct: false
+        rationale: "这是一个副词，不能接在 'It is' 后面。"
+      - text: "simple"
+        is_correct: false
+        rationale: "语义不符。"
+    hint: "如果你觉得一件事‘很有可能’发生，你会选哪个词？"
+
+  - id: 108
+    text: "The _______ between the two leaders was very long and serious."
+    options:
+      - text: "conversation"
+        is_correct: true
+        rationale: "'Conversation' 指‘对话’。"
+      - text: "camouflage"
+        is_correct: false
+        rationale: "领导人之间不需要‘伪装’（物理意义上的）。"
+      - text: "fridge"
+        is_correct: false
+        rationale: "完全无关。"
+      - text: "jaw"
+        is_correct: false
+        rationale: "完全无关。"
+    hint: "两个人坐下来聊天、商量事情，这叫一次 _______。"
+
+  - id: 109
+    text: "My younger brother is very _______ at playing video games."
+    options:
+      - text: "good"
+        is_correct: true
+        rationale: "be good at 是‘擅长’的固定搭配。"
+      - text: "able"
+        is_correct: false
+        rationale: "应为 'able to play'。"
+      - text: "likely"
+        is_correct: false
+        rationale: "不合逻辑。"
+      - text: "weird"
+        is_correct: false
+        rationale: "虽然可能很‘奇怪’，但 'good at' 更常用。"
+    hint: "如果你在那件事上表现很棒，你就是很 _______ 它。"
+
+  - id: 110
+    text: "The octopus can change its _______ to look like a rock."
+    options:
+      - text: "texture"
+        is_correct: true
+        rationale: "'Texture' 指‘纹理’或‘质感’。"
+      - text: "financial"
+        is_correct: false
+        rationale: "章鱼没有‘金融’问题。"
+      - text: "forecast"
+        is_correct: false
+        rationale: "章鱼不能预报天气。"
+      - text: "polite"
+        is_correct: false
+        rationale: "章鱼不具备人类的礼貌。"
+    hint: "摸起来像石头一样的皮肤感觉，这叫皮肤的 _______。"
+
+  - id: 111
+    text: "We should _______ our energy for the long journey tomorrow."
+    options:
+      - text: "maintain"
+        is_correct: true
+        rationale: "'Maintain' 指‘维持’或‘保持’（良好的状态）。"
+      - text: "blame"
+        is_correct: false
+        rationale: "不应责备能量。"
+      - text: "ignore"
+        is_correct: false
+        rationale: "不应忽略能量。"
+      - text: "distract"
+        is_correct: false
+        rationale: "不符合逻辑。"
+    hint: "为了明天有精神，你今天需要 _______ 你的体力。"
+
+  - id: 112
+    text: "The _______ of the sea was so calm that it looked like a mirror."
+    options:
+      - text: "surface"
+        is_correct: true
+        rationale: "'Surface' 指‘表面’（注：RE 1 级核心词汇）。"
+      - text: "movement"
+        is_correct: false
+        rationale: "如果‘动’（movement）很多，就不会像镜子。"
+      - text: "detail"
+        is_correct: false
+        rationale: "不符合语境。"
+      - text: "factory"
+        is_correct: false
+        rationale: "海洋没有工厂。"
+    hint: "水的‘最上面那层’叫什么？"
+
+  - id: 113
+    text: "In the past, people used very _______ tools made of stone."
+    options:
+      - text: "simple"
+        is_correct: true
+        rationale: "'Simple' 指‘简单的’。"
+      - text: "powerful"
+        is_correct: false
+        rationale: "石器时代的工具通常不被认为是非常‘强有力’的。"
+      - text: "independent"
+        is_correct: false
+        rationale: "工具没有‘独立’一说。"
+      - text: "financial"
+        is_correct: false
+        rationale: "不合逻辑。"
+    hint: "如果你做一件事情用的工具不复杂，它就是 _______ 的。"
+
+  - id: 114
+    text: "The vacuum cleaner will _______ all the dust from the carpet."
+    options:
+      - text: "suck up"
+        is_correct: true
+        rationale: "'Suck up' 指‘吸起来’。"
+      - text: "replace"
+        is_correct: false
+        rationale: "吸尘器不是替换灰尘。"
+      - text: "exist"
+        is_correct: false
+        rationale: "不符合逻辑。"
+      - text: "deliver"
+        is_correct: false
+        rationale: "吸尘器不投递灰尘。"
+    hint: "就像用吸管喝果汁一样，吸尘器把灰尘 _______。"
+
+  - id: 115
+    text: "The deep sea is a place where very _______ creatures live."
+    options:
+      - text: "strange"
+        is_correct: true
+        rationale: "'Strange' 指‘奇怪的’。"
+      - text: "ordinary"
+        is_correct: false
+        rationale: "深海生物通常并不普通。"
+      - text: "financial"
+        is_correct: false
+        rationale: "生物没有金融属性。"
+      - text: "polite"
+        is_correct: false
+        rationale: "生物没有礼貌属性。"
+    hint: "如果你看到一只长了三只眼睛的鱼，你会觉得它很 _______。"
+
+  - id: 116
+    text: "Many people feel _______ when they have no work for a long time."
+    options:
+      - text: "depression"
+        is_correct: false
+        rationale: "此处需要形容词或接在 feel 后的状态词，'depression' 是名词。"
+      - text: "depressed"
+        is_correct: true
+        rationale: "'Depressed' 指‘抑郁的’、‘情绪低落的’。"
+      - text: "motivated"
+        is_correct: false
+        rationale: "没有工作通常不会让人更有动力。"
+      - text: "polite"
+        is_correct: false
+        rationale: "不符合句意。"
+    hint: "如果你长时间不开心、觉得生活没希望，这种状态叫什么？"
+
+  - id: 117
+    text: "We should _______ our local library by donating books."
+    options:
+      - text: "support"
+        is_correct: true
+        rationale: "'Support' 指‘支持’。"
+      - text: "distract"
+        is_correct: false
+        rationale: "不要让图书馆分心。"
+      - text: "blame"
+        is_correct: false
+        rationale: "捐书不是为了责备图书馆。"
+      - text: "ignore"
+        is_correct: false
+        rationale: "捐书是关注的行为，不是忽略。"
+    hint: "如果你想帮助一个组织变得更好，你是在 _______ 它。"
+
+  - id: 118
+    text: "The bird uses its _______ to fly through the thick forest."
+    options:
+      - text: "wings"
+        is_correct: true
+        rationale: "翅膀（注：常识性词汇，RE1 级必修）。"
+      - text: "ankles"
+        is_correct: false
+        rationale: "脚踝不能用来飞。"
+      - text: "jaws"
+        is_correct: false
+        rationale: "下颚不能用来飞。"
+      - text: "fridges"
+        is_correct: false
+        rationale: "完全无关。"
+    hint: "鸟身上用来扇动空气的部分叫什么？"
+
+  - id: 119
+    text: "The mountain is so high that it is _______ covered with snow."
+    options:
+      - text: "constantly"
+        is_correct: true
+        rationale: "'Constantly' 指‘经常’、‘不断地’。"
+      - text: "immediately"
+        is_correct: false
+        rationale: "‘立刻’不符合描述山顶积雪的常态。"
+      - text: "probably"
+        is_correct: false
+        rationale: "如果山真的很高，就是事实而非可能。"
+      - text: "meanwhile"
+        is_correct: false
+        rationale: "不符合句意。"
+    hint: "如果一件事‘一直’发生，从未停止，可以用哪个词？"
+
+  - id: 120
+    text: "The baby animal looks exactly _______ its mother."
+    options:
+      - text: "like"
+        is_correct: true
+        rationale: "look like 是‘长得像’。"
+      - text: "as"
+        is_correct: false
+        rationale: "固定搭配错误。"
+      - text: "once"
+        is_correct: false
+        rationale: "语义不通。"
+      - text: "such"
+        is_correct: false
+        rationale: "语法不通。"
+    hint: "如果你和你的爸爸长得很像，你可以说 'I look _______ my father'。"
+
+  - id: 121
+    text: "The _______ of the forest is beautiful, with many different trees."
+    options:
+      - text: "sight"
+        is_correct: true
+        rationale: "'Sight' 指‘景象’。"
+      - text: "injury"
+        is_correct: false
+        rationale: "森林没有‘受伤’。"
+      - text: "forecast"
+        is_correct: false
+        rationale: "不符合句意。"
+      - text: "detail"
+        is_correct: false
+        rationale: "虽然可以，但 'sight' 描述大景观更合适。"
+    hint: "你眼睛看到的一整片美丽的风景，叫一个 _______。"
+
+  - id: 122
+    text: "We should not _______ wild animals; we should let them live in peace."
+    options:
+      - text: "disturb"
+        is_correct: true
+        rationale: "'Disturb' 指‘干扰’、‘打扰’。"
+      - text: "assist"
+        is_correct: false
+        rationale: "虽然协助是对的，但句中 'let them live in peace' 强调不要去干预。"
+      - text: "praise"
+        is_correct: false
+        rationale: "表扬动物不符合逻辑。"
+      - text: "replace"
+        is_correct: false
+        rationale: "不符合逻辑。"
+    hint: "如果你在别人睡觉时大喊大叫，你就是在 _______ 别人。"
+
+  - id: 123
+    text: "A _______ person always says 'please' and 'thank you'."
+    options:
+      - text: "polite"
+        is_correct: true
+        rationale: "'Polite' 指‘有礼貌的’。"
+      - text: "weird"
+        is_correct: false
+        rationale: "说谢谢并不奇怪。"
+      - text: "odd"
+        is_correct: false
+        rationale: "说谢谢并不古怪。"
+      - text: "simple"
+        is_correct: false
+        rationale: "不符合描述性格的语境。"
+    hint: "如果你很有教养，别人会觉得你是一个 _______ 的人。"
+
+  - id: 124
+    text: "The new laws will _______ the environment by reducing pollution."
+    options:
+      - text: "benefit"
+        is_correct: true
+        rationale: "'Benefit' 指‘使……受益’。"
+      - text: "blame"
+        is_correct: false
+        rationale: "法律不会责备环境。"
+      - text: "ignore"
+        is_correct: false
+        rationale: "不应忽略环境。"
+      - text: "distract"
+        is_correct: false
+        rationale: "法律不会让环境分心。"
+    hint: "如果一件事带来了好处，它就是对其他事物有 _______ 的。"
+
+  - id: 125
+    text: "The king had to _______ the city from the dangerous enemies."
+    options:
+      - text: "protect"
+        is_correct: true
+        rationale: "'Protect' 指‘保护’。"
+      - text: "distract"
+        is_correct: false
+        rationale: "不符合句意。"
+      - text: "ignore"
+        is_correct: false
+        rationale: "不能忽略敌人。"
+      - text: "deliver"
+        is_correct: false
+        rationale: "不能投递城市。"
+    hint: "如果你在下雨时撑伞，你是在 _______ 自己不被淋湿。"
+
+  - id: 126
+    text: "The _______ of the desert is very dry and hot all year round."
+    options:
+      - text: "climate"
+        is_correct: true
+        rationale: "'Climate' 指‘气候’。"
+      - text: "forecast"
+        is_correct: false
+        rationale: "预报只针对短期。"
+      - text: "financial"
+        is_correct: false
+        rationale: "不符合逻辑。"
+      - text: "daily"
+        is_correct: false
+        rationale: "名词词性不符。"
+    hint: "一个地方长年累月的天气情况总称叫什么？"
+
+  - id: 127
+    text: "If you want to be healthy, you should _______ every day."
+    options:
+      - text: "exercise"
+        is_correct: true
+        rationale: "'Exercise' 指‘运动’或‘锻炼’。"
+      - text: "operate"
+        is_correct: false
+        rationale: "操作机器不能让你更健康。"
+      - text: "design"
+        is_correct: false
+        rationale: "设计不能直接让你健康。"
+      - text: "replace"
+        is_correct: false
+        rationale: "不符合逻辑。"
+    hint: "跑步、游泳、跳绳，这些活动统称为什么？"
+
+  - id: 128
+    text: "My _______ goal is to travel around the world one day."
+    options:
+      - text: "ultimate"
+        is_correct: true
+        rationale: "'Ultimate' 指‘最终的’、‘终极的’。"
+      - text: "simple"
+        is_correct: false
+        rationale: "环游世界并不简单。"
+      - text: "average"
+        is_correct: false
+        rationale: "不符合句意。"
+      - text: "daily"
+        is_correct: false
+        rationale: "不符合句意。"
+    hint: "如果你有一个‘最后一定要实现’的目标，那是你的 _______ 目标。"
+
+  - id: 129
+    text: "The cat jumped _______ the wall and escaped into the garden."
+    options:
+      - text: "over"
+        is_correct: true
+        rationale: "跳过（注：空间介词）。"
+      - text: "once"
+        is_correct: false
+        rationale: "一次。"
+      - text: "meanwhile"
+        is_correct: false
+        rationale: "与之同时。"
+      - text: "such"
+        is_correct: false
+        rationale: "如此。"
+    hint: "如果你越过了一个障碍物，你是从它上面 _______ 过去的。"
+
+  - id: 130
+    text: "It is difficult to _______ between these two very similar birds."
+    options:
+      - text: "distinguish"
+        is_correct: true
+        rationale: "'Distinguish' 指‘区分’、‘辨别’。"
+      - text: "motivate"
+        is_correct: false
+        rationale: "不符合逻辑。"
+      - text: "support"
+        is_correct: false
+        rationale: "不符合逻辑。"
+      - text: "ignore"
+        is_correct: false
+        rationale: "虽然可以忽略，但句子强调的是分不清。"
+    hint: "如果两个东西长得几乎一样，你很难将它们 _______ 开来。"
+
+  - id: 131
+    text: "The _______ of the island changed after the huge volcanic eruption."
+    options:
+      - text: "shape"
+        is_correct: true
+        rationale: "'Shape' 指‘形状’。"
+      - text: "mood"
+        is_correct: false
+        rationale: "岛屿没有情绪。"
+      - text: "drought"
+        is_correct: false
+        rationale: "不符合语境。"
+      - text: "detail"
+        is_correct: false
+        rationale: "虽然细节变了，但大轮廓的改变叫 shape。"
+    hint: "三角形、圆形、正方形，这些都是不同的 _______。"
+
+  - id: 132
+    text: "The explorers used a _______ to find their way in the dark cave."
+    options:
+      - text: "flashlight"
+        is_correct: true
+        rationale: "手电筒（注：常见物品）。"
+      - text: "fridge"
+        is_correct: false
+        rationale: "冰箱不能在山洞里照亮。"
+      - text: "jaw"
+        is_correct: false
+        rationale: "不符合语境。"
+      - text: "pattern"
+        is_correct: false
+        rationale: "不符合语境。"
+    hint: "天黑了，你想看清路，你需要一个 _______。"
+
+  - id: 133
+    text: "We need to _______ more trees to help the planet breathe."
+    options:
+      - text: "plant"
+        is_correct: true
+        rationale: "'Plant' 指‘种植’。"
+      - text: "replace"
+        is_correct: false
+        rationale: "虽然可以替换，但 'plant' 描述种树更直接。"
+      - text: "deliver"
+        is_correct: false
+        rationale: "不递送树木。"
+      - text: "exist"
+        is_correct: false
+        rationale: "不符合逻辑。"
+    hint: "把小树苗放进土里，让它长大，你在 _______ 树。"
+
+  - id: 134
+    text: "The _______ for the new app was designed by a famous engineer."
+    options:
+      - text: "interface"
+        is_correct: true
+        rationale: "'Interface' 指‘界面’（注：科技常用词）。"
+      - text: "drought"
+        is_correct: false
+        rationale: "App 没有干旱。"
+      - text: "camouflage"
+        is_correct: false
+        rationale: "App 通常不需要伪装。"
+      - text: "ceremony"
+        is_correct: false
+        rationale: "不符合语境。"
+    hint: "你用手机 App 时看到的那些按钮和画面叫什么？"
+
+  - id: 135
+    text: "The little girl was _______ to see the big elephant at the zoo."
+    options:
+      - text: "excited"
+        is_correct: true
+        rationale: "'Excited' 指‘兴奋的’。"
+      - text: "polite"
+        is_correct: false
+        rationale: "虽然有礼貌，但见到大象通常是兴奋。"
+      - text: "odd"
+        is_correct: false
+        rationale: "不合逻辑。"
+      - text: "likely"
+        is_correct: false
+        rationale: "语法不通。"
+    hint: "如果你非常开心、心脏跳得很快，说明你很 _______。"
+
+  - id: 136
+    text: "In the desert, some animals can _______ for weeks without water."
+    options:
+      - text: "survive"
+        is_correct: true
+        rationale: "'Survive' 指‘生存’、‘存活’。"
+      - text: "exist"
+        is_correct: false
+        rationale: "虽然对，但 'survive' 强调在艰难条件下的存活。"
+      - text: "operate"
+        is_correct: false
+        rationale: "动物不‘操作’。"
+      - text: "replace"
+        is_correct: false
+        rationale: "不符合逻辑。"
+    hint: "如果在危险的环境中没有死掉，说明你 _______ 了。"
+
+  - id: 137
+    text: "The _______ of the ancient temple was discovered by deep-sea divers."
+    options:
+      - text: "ruin"
+        is_correct: true
+        rationale: "'Ruin' 指‘遗址’或‘废墟’。"
+      - text: "detail"
+        is_correct: false
+        rationale: "太笼统。"
+      - text: "factory"
+        is_correct: false
+        rationale: "古代没有工厂。"
+      - text: "forecast"
+        is_correct: false
+        rationale: "不符合逻辑。"
+    hint: "一个很久以前建造的、现在已经坏掉的房子叫什么？"
+
+  - id: 138
+    text: "We should not _______ the environment; we must keep it clean."
+    options:
+      - text: "pollute"
+        is_correct: true
+        rationale: "'Pollute' 指‘污染’。"
+      - text: "assist"
+        is_correct: false
+        rationale: "不符合句意。"
+      - text: "praise"
+        is_correct: false
+        rationale: "不符合句意。"
+      - text: "distract"
+        is_correct: false
+        rationale: "不符合逻辑。"
+    hint: "往河里扔垃圾，就是在 _______ 河水。"
+
+  - id: 139
+    text: "The explorer had a _______ map to help him find the treasure."
+    options:
+      - text: "detailed"
+        is_correct: true
+        rationale: "'Detailed' 指‘详细的’。"
+      - text: "simple"
+        is_correct: false
+        rationale: "简单的地图很难帮他找到宝藏。"
+      - text: "financial"
+        is_correct: false
+        rationale: "地图没有金融属性。"
+      - text: "likely"
+        is_correct: false
+        rationale: "不合语法。"
+    hint: "如果一个东西写得非常具体，每个小地方都有，它是 _______ 的。"
+
+  - id: 140
+    text: "My _______ is to become a scientist and study the ocean one day."
+    options:
+      - text: "dream"
+        is_correct: true
+        rationale: "'Dream' 指‘梦想’。"
+      - text: "fridge"
+        is_correct: false
+        rationale: "你的冰箱不是成为科学家。"
+      - text: "forecast"
+        is_correct: false
+        rationale: "不符合逻辑。"
+      - text: "drought"
+        is_correct: false
+        rationale: "不符合逻辑。"
+    hint: "你心里最想实现的愿望叫什么？"
+
+  - id: 141
+    text: "The _______ was so heavy that we couldn't see the road clearly."
+    options:
+      - text: "fog"
+        is_correct: true
+        rationale: "雾（注：天气核心词汇）。"
+      - text: "forecast"
+        is_correct: false
+        rationale: "预报不挡视线。"
+      - text: "financial"
+        is_correct: false
+        rationale: "金融不挡视线。"
+      - text: "drought"
+        is_correct: false
+        rationale: "干旱不挡视线。"
+    hint: "早晨白茫茫的一片，看不清路，那是 _______。"
+
+  - id: 142
+    text: "The company will _______ its new products at the big show next month."
+    options:
+      - text: "present"
+        is_correct: true
+        rationale: "'Present' 指‘展示’或‘介绍’。"
+      - text: "blame"
+        is_correct: false
+        rationale: "公司不会责备自己的新产品。"
+      - text: "ignore"
+        is_correct: false
+        rationale: "不应忽略新产品。"
+      - text: "deliver"
+        is_correct: false
+        rationale: "虽然可以投递，但展会是展示的场合。"
+    hint: "如果你想让大家看你的新东西，你在 _______ 它。"
+
+  - id: 143
+    text: "The _______ of the cake was very sweet and delicious."
+    options:
+      - text: "taste"
+        is_correct: true
+        rationale: "'Taste' 指‘味道’。"
+      - text: "mood"
+        is_correct: false
+        rationale: "蛋糕没有情绪。"
+      - text: "shape"
+        is_correct: false
+        rationale: "形状本身并不甜。"
+      - text: "detail"
+        is_correct: false
+        rationale: "不符合语境。"
+    hint: "你用舌头感觉出来的东西叫 _______。"
+
+  - id: 144
+    text: "A _______ lives in a group to stay safe from predators."
+    options:
+      - text: "species"
+        is_correct: true
+        rationale: "'Species' 指‘物种’。"
+      - text: "society"
+        is_correct: false
+        rationale: "人类才有社会，动物通常叫 group 或 colony。"
+      - text: "media"
+        is_correct: false
+        rationale: "不符合逻辑。"
+      - text: "source"
+        is_correct: false
+        rationale: "不符合逻辑。"
+    hint: "同一类长得很像的动物统称一个 _______。"
+
+  - id: 145
+    text: "It is important to _______ enough water every day to stay healthy."
+    options:
+      - text: "drink"
+        is_correct: true
+        rationale: "喝（注：基础词汇）。"
+      - text: "replace"
+        is_correct: false
+        rationale: "不符合逻辑。"
+      - text: "deliver"
+        is_correct: false
+        rationale: "不符合逻辑。"
+      - text: "operate"
+        is_correct: false
+        rationale: "不符合逻辑。"
+    hint: "当你渴了的时候，你需要做什么？"
+
+  - id: 146
+    text: "The _______ on the butterfly's wings help it hide from birds."
+    options:
+      - text: "colors"
+        is_correct: true
+        rationale: "颜色（注：基础词汇）。"
+      - text: "ankles"
+        is_correct: false
+        rationale: "蝴蝶没有脚踝。"
+      - text: "fridges"
+        is_correct: false
+        rationale: "不符合逻辑。"
+      - text: "jaws"
+        is_correct: false
+        rationale: "不符合逻辑。"
+    hint: "红、黄、蓝、绿，这些都是不同的 _______。"
+
+  - id: 147
+    text: "We used a _______ to cross the deep and wide river."
+    options:
+      - text: "bridge"
+        is_correct: true
+        rationale: "桥（注：基础地理/建设词汇）。"
+      - text: "fridge"
+        is_correct: false
+        rationale: "冰箱不能过河。"
+      - text: "jaw"
+        is_correct: false
+        rationale: "不符合逻辑。"
+      - text: "pattern"
+        is_correct: false
+        rationale: "不符合逻辑。"
+    hint: "架在河两岸、让车和人走过去的建筑叫什么？"
+
+  - id: 148
+    text: "The little cat was _______ because it couldn't find its mother."
+    options:
+      - text: "sad"
+        is_correct: true
+        rationale: "伤心的（注：基础情绪词汇）。"
+      - text: "polite"
+        is_correct: false
+        rationale: "这种情况下不讨论礼貌。"
+      - text: "likely"
+        is_correct: false
+        rationale: "语法不通。"
+      - text: "odd"
+        is_correct: false
+        rationale: "不符合语境。"
+    hint: "如果你弄丢了最喜欢的玩具，你会觉得很 _______。"
+
+  - id: 149
+    text: "The sun _______ every morning and sets every evening."
+    options:
+      - text: "rises"
+        is_correct: true
+        rationale: "升起（注：RE1 级必备短语）。"
+      - text: "exists"
+        is_correct: false
+        rationale: "虽然存在，但此处描述其动作。"
+      - text: "operates"
+        is_correct: false
+        rationale: "太阳不操作。"
+      - text: "replaces"
+        is_correct: false
+        rationale: "不符合逻辑。"
+    hint: "早晨太阳从地平线上慢慢升上来的动作叫什么？"
+
+  - id: 150
+    text: "You can _______ a lot of information on the Internet today."
+    options:
+      - text: "find"
+        is_correct: true
+        rationale: "找到（注：基础动词）。"
+      - text: "replace"
+        is_correct: false
+        rationale: "不符合逻辑。"
+      - text: "deliver"
+        is_correct: false
+        rationale: "不符合逻辑。"
+      - text: "ignore"
+        is_correct: false
+        rationale: "虽然可以忽略，但通常是去找信息。"
+    hint: "如果你想知道一个东西，你去网上 _______ 它。"
+
+
+  - id: 151
+    text: "The professor decided to _______ the behavior of dolphins in the wild."
+    options:
+      - text: "research"
+        is_correct: true
+        rationale: "'Research' 指‘研究’或‘学术调查’，符合教授的身份和行为。"
+      - text: "replace"
+        is_correct: false
+        rationale: "'Replace' 是‘替换’，不能用于描述研究行为。"
+      - text: "deliver"
+        is_correct: false
+        rationale: "'Deliver' 是‘递送’。"
+      - text: "financial"
+        is_correct: false
+        rationale: "这是形容词，词性不符。"
+    hint: "科学家为了发现新知识而做的工作叫什么？"
+
+  - id: 152
+    text: "The company is having _______ problems because it didn't sell enough products."
+    options:
+      - text: "financial"
+        is_correct: true
+        rationale: "'Financial' 指‘金融的’或‘财务的’，与钱和销售额直接相关。"
+      - text: "polite"
+        is_correct: false
+        rationale: "公司通常没有‘礼貌问题’导致亏损。"
+      - text: "weird"
+        is_correct: false
+        rationale: "虽然很奇怪，但描述经济问题用 financial 更专业。"
+      - text: "average"
+        is_correct: false
+        rationale: "语义不符。"
+    hint: "如果一个问题是关于‘钱’的，它是一个什么问题？"
+
+  - id: 153
+    text: "Because of the long _______, the ground is very dry and the plants are dying."
+    options:
+      - text: "drought"
+        is_correct: true
+        rationale: "'Drought' 指‘干旱’，即长期降雨不足。"
+      - text: "flood"
+        is_correct: false
+        rationale: "洪水会导致水灾，而不是干旱。"
+      - text: "forecast"
+        is_correct: false
+        rationale: "预报不会让植物枯死。"
+      - text: "event"
+        is_correct: false
+        rationale: "太笼统。"
+    hint: "长时间不下雨的情况叫什么？"
+
+  - id: 154
+    text: "Scientists _______ that the storm would hit the city at 5 PM."
+    options:
+      - text: "predicted"
+        is_correct: true
+        rationale: "'Predicted' 指‘预测’或‘预言’。"
+      - text: "blamed"
+        is_correct: false
+        rationale: "科学家不责备风暴袭击，而是提前告诉大家。"
+      - text: "continued"
+        is_correct: false
+        rationale: "不符合句意。"
+      - text: "delivered"
+        is_correct: false
+        rationale: "不符合句意。"
+    hint: "如果你在事情发生前就说它会发生，你是在做什么？"
+
+  - id: 155
+    text: "It is very _______ that we will have a test next Monday, so please study."
+    options:
+      - text: "likely"
+        is_correct: true
+        rationale: "'Likely' 表示‘可能的’。"
+      - text: "past"
+        is_correct: false
+        rationale: "不能用‘过去’来形容未来的可能性。"
+      - text: "odd"
+        is_correct: false
+        rationale: "考试并不奇怪。"
+      - text: "simple"
+        is_correct: false
+        rationale: "语义不符。"
+    hint: "如果你觉得一件事‘很有可能’发生，选哪个词？"
+
+  - id: 156
+    text: "The school sports day is a big _______ for all the students."
+    options:
+      - text: "event"
+        is_correct: true
+        rationale: "'Event' 指‘事件’或‘重大的活动’。"
+      - text: "injury"
+        is_correct: false
+        rationale: "运动会不是伤害。"
+      - text: "detail"
+        is_correct: false
+        rationale: "不符合语境。"
+      - text: "pattern"
+        is_correct: false
+        rationale: "不符合语境。"
+    hint: "发生的一个重要的事情或者活动叫什么？"
+
+  - id: 157
+    text: "I saw a _______ light in the sky that I could not explain."
+    options:
+      - text: "weird"
+        is_correct: true
+        rationale: "'Weird' 指‘奇怪的’或‘古怪的’。"
+      - text: "ordinary"
+        is_correct: false
+        rationale: "如果是寻常的光，就能解释了。"
+      - text: "financial"
+        is_correct: false
+        rationale: "光没有金融属性。"
+      - text: "polite"
+        is_correct: false
+        rationale: "光没有礼貌属性。"
+    hint: "如果你看到一件解释不了、很神奇的事情，你会用哪个词？"
+
+  - id: 158
+    text: "The workers decided to _______ because they wanted more money."
+    options:
+      - text: "strike"
+        is_correct: true
+        rationale: "'Strike' 在这里指‘罢工’。"
+      - text: "deliver"
+        is_correct: false
+        rationale: "递送不能帮他们要求更多工资。"
+      - text: "exist"
+        is_correct: false
+        rationale: "不合逻辑。"
+      - text: "continue"
+        is_correct: false
+        rationale: "不合逻辑。"
+    hint: "工人们停止工作以要求更好的条件，这叫什么？"
+
+  - id: 159
+    text: "The postman will _______ the letters to your house every morning."
+    options:
+      - text: "deliver"
+        is_correct: true
+        rationale: "'Deliver' 指‘递送’或‘运输’。"
+      - text: "strike"
+        is_correct: false
+        rationale: "邮递员不罢工信件。"
+      - text: "blame"
+        is_correct: false
+        rationale: "邮递员不责备信件。"
+      - text: "predict"
+        is_correct: false
+        rationale: "不符合句意。"
+    hint: "快递员把包裹送到你手上的动作叫什么？"
+
+  - id: 160
+    text: "The first _______ of the sunrise over the ocean was very beautiful."
+    options:
+      - text: "sight"
+        is_correct: true
+        rationale: "'Sight' 指‘景象’或‘看见的东西’。"
+      - text: "injury"
+        is_correct: false
+        rationale: "日出不是伤害。"
+      - text: "forecast"
+        is_correct: false
+        rationale: "不符合句意。"
+      - text: "sequence"
+        is_correct: false
+        rationale: "不符合句意。"
+    hint: "你眼睛看到的一整幅画面或风景叫什么？"
+
+  - id: 161
+    text: "You should _______ the old light bulb with a new one."
+    options:
+      - text: "replace"
+        is_correct: true
+        rationale: "'Replace' 指‘替换’。"
+      - text: "suck up"
+        is_correct: false
+        rationale: "你不能吸走灯泡。"
+      - text: "form"
+        is_correct: false
+        rationale: "不符合语境。"
+      - text: "exist"
+        is_correct: false
+        rationale: "不符合语境。"
+    hint: "拿一个好的换一个坏的，你在做什么？"
+
+  - id: 162
+    text: "The doctor said the _______ to his head was not too bad."
+    options:
+      - text: "injury"
+        is_correct: true
+        rationale: "'Injury' 指‘伤害’或‘受伤’。"
+      - text: "sight"
+        is_correct: false
+        rationale: "不符合逻辑。"
+      - text: "detail"
+        is_correct: false
+        rationale: "不符合语境。"
+      - text: "pattern"
+        is_correct: false
+        rationale: "不符合语境。"
+    hint: "如果你摔倒了碰破了皮，你得了一次什么？"
+
+  - id: 163
+    text: "Some people believe that ghosts _______ in old, empty houses."
+    options:
+      - text: "exist"
+        is_correct: true
+        rationale: "'Exist' 指‘存在’。"
+      - text: "replace"
+        is_correct: false
+        rationale: "鬼魂不替换房子。"
+      - text: "deliver"
+        is_correct: false
+        rationale: "不符合句意。"
+      - text: "form"
+        is_correct: false
+        rationale: "不符合句意。"
+    hint: "如果你想问一个东西是不是真的‘有’，你是在问它是否 _______。"
+
+  - id: 164
+    text: "I heard a _______ noise coming from the basement last night."
+    options:
+      - text: "strange"
+        is_correct: true
+        rationale: "'Strange' 指‘奇怪的’。"
+      - text: "ordinary"
+        is_correct: false
+        rationale: "普通的声音不会吓到人。"
+      - text: "daily"
+        is_correct: false
+        rationale: "不是每天都听到的声音。"
+      - text: "financial"
+        is_correct: false
+        rationale: "完全无关。"
+    hint: "如果你听到一个从未听过、让你不舒服的声音，它很 _______。"
+
+  - id: 165
+    text: "You must follow the _______ of instructions to build the toy correctly."
+    options:
+      - text: "sequence"
+        is_correct: true
+        rationale: "'Sequence' 指‘顺序’。"
+      - text: "detail"
+        is_correct: false
+        rationale: "虽然需要细节，但组装强调的是顺序。"
+      - text: "injury"
+        is_correct: false
+        rationale: "不合逻辑。"
+      - text: "sight"
+        is_correct: false
+        rationale: "不合逻辑。"
+    hint: "第一步，第二步，第三步……这叫步骤的 _______。"
+
+  - id: 166
+    text: "In the _______, people traveled by horse because there were no cars."
+    options:
+      - text: "past"
+        is_correct: true
+        rationale: "'Past' 指‘过去’。"
+      - text: "future"
+        is_correct: false
+        rationale: "未来可能有飞行车，但绝不是只有马。"
+      - text: "likely"
+        is_correct: false
+        rationale: "语法不通。"
+      - text: "immediate"
+        is_correct: false
+        rationale: "语法不通。"
+    hint: "已经发生过的那个时间段叫什么？"
+
+  - id: 167
+    text: "My grandfather told me an old _______ about a hero and a dragon."
+    options:
+      - text: "tale"
+        is_correct: true
+        rationale: "'Tale' 指‘传说’或‘故事’。"
+      - text: "detail"
+        is_correct: false
+        rationale: "细节不是一个完整的故事。"
+      - text: "research"
+        is_correct: false
+        rationale: "爷爷不讲英雄研究。"
+      - text: "condition"
+        is_correct: false
+        rationale: "语法不通。"
+    hint: "‘白雪公主’、‘龙骑士’，这些统称为什么？"
+
+  - id: 168
+    text: "The explorer had to stay in the camp because of the bad weather _______."
+    options:
+      - text: "conditions"
+        is_correct: true
+        rationale: "'Condition' 在这里指‘情况’或‘环境条件’。"
+      - text: "details"
+        is_correct: false
+        rationale: "不符合句意。"
+      - text: "sequences"
+        is_correct: false
+        rationale: "不符合句意。"
+      - text: "tales"
+        is_correct: false
+        rationale: "不符合句意。"
+    hint: "如果你想描述外面的环境好不好，你会说环境的 _______。"
+
+  - id: 169
+    text: "The detective looked at every _______ of the room to find a clue."
+    options:
+      - text: "detail"
+        is_correct: true
+        rationale: "'Detail' 指‘细节’。"
+      - text: "injury"
+        is_correct: false
+        rationale: "房间没有伤害。"
+      - text: "sight"
+        is_correct: false
+        rationale: "‘每一个景象’语义不通。"
+      - text: "sequence"
+        is_correct: false
+        rationale: "不符合句意。"
+    hint: "如果你观察一个东西非常仔细，每一个小地方都不放过，你关注的是它的 _______。"
+
+  - id: 170
+    text: "Smoking can _______ many dangerous heart diseases."
+    options:
+      - text: "lead to"
+        is_correct: true
+        rationale: "'Lead to' 指‘导致’。"
+      - text: "assist"
+        is_correct: false
+        rationale: "抽烟不会协助健康。"
+      - text: "replace"
+        is_correct: false
+        rationale: "抽烟不替换疾病。"
+      - text: "ignore"
+        is_correct: false
+        rationale: "语义不符。"
+    hint: "如果一个坏习惯带来一个坏结果，我们可以说它（_______）那个结果。"
+
+  - id: 171
+    text: "I will _______ finish my homework before the movie starts tonight."
+    options:
+      - text: "definitely"
+        is_correct: true
+        rationale: "'Definitely' 指‘确定地’、‘毫无疑问地’。"
+      - text: "oddly"
+        is_correct: false
+        rationale: "‘古怪地完成’语义不通。"
+      - text: "likely"
+        is_correct: false
+        rationale: "此处需要副词，'likely' 虽然常用但通常在 'It is likely that' 中。"
+      - text: "past"
+        is_correct: false
+        rationale: "语法不通。"
+    hint: "当你百分之百保证一件事会发生，你会用哪个词？"
+
+  - id: 172
+    text: "It is _______ to see a rainbow in the desert, as it rarely rains there."
+    options:
+      - text: "unusual"
+        is_correct: true
+        rationale: "'Unusual' 指‘不寻常的’。"
+      - text: "ordinary"
+        is_correct: false
+        rationale: "在沙漠看彩虹并不寻常。"
+      - text: "daily"
+        is_correct: false
+        rationale: "不是每天都能见到的。"
+      - text: "simple"
+        is_correct: false
+        rationale: "不符合逻辑。"
+    hint: "如果一件事极少发生，它是 _______ 的。"
+
+  - id: 173
+    text: "I have _______ been to Beijing, and I hope to visit it again one day."
+    options:
+      - text: "once"
+        is_correct: true
+        rationale: "'Once' 指‘曾经’或‘一次’。"
+      - text: "meanwhile"
+        is_correct: false
+        rationale: "‘与之同时’不符合句意。"
+      - text: "such"
+        is_correct: false
+        rationale: "语义不通。"
+      - text: "toward"
+        is_correct: false
+        rationale: "语法不通。"
+    hint: "如果你以前去过一个地方，你可以说你 _______ 去过。"
+
+  - id: 174
+    text: "The dog had a large bone in its _______ and was walking away."
+    options:
+      - text: "jaw"
+        is_correct: true
+        rationale: "'Jaw' 指‘下颚’。"
+      - text: "factory"
+        is_correct: false
+        rationale: "狗没有工厂。"
+      - text: "fridge"
+        is_correct: false
+        rationale: "狗不用冰箱。"
+      - text: "pattern"
+        is_correct: false
+        rationale: "不符合逻辑。"
+    hint: "动物嘴巴用来咬东西的骨头叫什么？"
+
+  - id: 175
+    text: "The little boy ran _______ his mother when he saw her at the airport."
+    options:
+      - text: "toward"
+        is_correct: true
+        rationale: "'Toward' 指‘朝着’、‘向着’。"
+      - text: "meanwhile"
+        is_correct: false
+        rationale: "语法不通。"
+      - text: "such"
+        is_correct: false
+        rationale: "语法不通。"
+      - text: "once"
+        is_correct: false
+        rationale: "语义不通。"
+    hint: "如果你朝着一个目标跑过去，你是在奔（_______）那个目标。"
+
+  - id: 176
+    text: "The scientist said it will _______ rain tomorrow morning."
+    options:
+      - text: "probably"
+        is_correct: true
+        rationale: "'Probably' 指‘很可能’。"
+      - text: "daily"
+        is_correct: false
+        rationale: "‘每天雨’语法不通。"
+      - text: "odd"
+        is_correct: false
+        rationale: "不符合句意。"
+      - text: "simple"
+        is_correct: false
+        rationale: "不符合句意。"
+    hint: "表达大概、很有可能发生的一个副词是什么？"
+
+  - id: 177
+    text: "The cook was making soup; _______, his assistant was cutting bread."
+    options:
+      - text: "meanwhile"
+        is_correct: true
+        rationale: "'Meanwhile' 指‘与此同时’。"
+      - text: "once"
+        is_correct: false
+        rationale: "语义不通。"
+      - text: "such"
+        is_correct: false
+        rationale: "语法不通。"
+      - text: "toward"
+        is_correct: false
+        rationale: "语义不通。"
+    hint: "当两件事同时在发生，我们可以用哪个词来连接？"
+
+  - id: 178
+    text: "The _______ of the new museum is very modern and beautiful."
+    options:
+      - text: "design"
+        is_correct: true
+        rationale: "'Design' 指‘设计’。"
+      - text: "drought"
+        is_correct: false
+        rationale: "博物馆没有干旱。"
+      - text: "camouflage"
+        is_correct: false
+        rationale: "博物馆不需要伪装。"
+      - text: "mood"
+        is_correct: false
+        rationale: "语义不合。"
+    hint: "一个产品的外观和内部构造的构思叫什么？"
+
+  - id: 179
+    text: "This computer game is very _______, so even a small child can play it."
+    options:
+      - text: "simple"
+        is_correct: true
+        rationale: "'Simple' 指‘简单的’。"
+      - text: "powerful"
+        is_correct: false
+        rationale: "强大并不一定意味着容易玩。"
+      - text: "independent"
+        is_correct: false
+        rationale: "独立不符合语境。"
+      - text: "social"
+        is_correct: false
+        rationale: "社交不符合语境。"
+    hint: "如果一个东西一点也不难，它就是 _______ 的。"
+
+  - id: 180
+    text: "You need a special key to _______ this heavy machine."
+    options:
+      - text: "operate"
+        is_correct: true
+        rationale: "'Operate' 指‘操作’或‘开动’。"
+      - text: "design"
+        is_correct: false
+        rationale: "设计不需要钥匙，操作才需要。"
+      - text: "contain"
+        is_correct: false
+        rationale: "不符合句意。"
+      - text: "exercise"
+        is_correct: false
+        rationale: "不符合句意。"
+    hint: "如果你开动一台机器并让它工作，你就是在 _______ 它。"
+
+  - id: 181
+    text: "Brushing your teeth is part of a healthy _______ habit."
+    options:
+      - text: "daily"
+        is_correct: true
+        rationale: "'Daily' 指‘每天的’。"
+      - text: "weird"
+        is_correct: false
+        rationale: "刷牙并不奇怪。"
+      - text: "average"
+        is_correct: false
+        rationale: "不符合句意。"
+      - text: "likely"
+        is_correct: false
+        rationale: "不符合句意。"
+    hint: "如果你每天都做一件事，那是一件 _______ 事。"
+
+  - id: 182
+    text: "The camera can capture every _______ of the fast-running tiger."
+    options:
+      - text: "movement"
+        is_correct: true
+        rationale: "'Movement' 指‘动作’。"
+      - text: "factory"
+        is_correct: false
+        rationale: "老虎不是工厂。"
+      - text: "pattern"
+        is_correct: false
+        rationale: "虽然捕获了图案，但此处强调跑动的过程。"
+      - text: "fridge"
+        is_correct: false
+        rationale: "完全无关。"
+    hint: "身体从一个地方移到另一个地方的过程叫什么？"
+
+  - id: 183
+    text: "The _______ makes thousands of cars every single year."
+    options:
+      - text: "factory"
+        is_correct: true
+        rationale: "'Factory' 指‘工厂’。"
+      - text: "fridge"
+        is_correct: false
+        rationale: "冰箱不造车。"
+      - text: "destination"
+        is_correct: false
+        rationale: "目的地不造车。"
+      - text: "mood"
+        is_correct: false
+        rationale: "不符合逻辑。"
+    hint: "工人工作、机器制造产品的庞大建筑叫什么？"
+
+  - id: 184
+    text: "The _______ person in this city drinks two cups of coffee a day."
+    options:
+      - text: "average"
+        is_correct: true
+        rationale: "'Average' 指‘平均的’。"
+      - text: "simple"
+        is_correct: false
+        rationale: "语义不合。"
+      - text: "likely"
+        is_correct: false
+        rationale: "语法不合。"
+      - text: "daily"
+        is_correct: false
+        rationale: "通常说 'The daily intake'，但此处指代人时用 average。"
+    hint: "把所有人的情况加起来除以人数，得到的是 _______ 情况。"
+
+  - id: 185
+    text: "Social _______ is a great way for people to stay in touch with friends."
+    options:
+      - text: "media"
+        is_correct: true
+        rationale: "'Media'（媒体），此处指代社交媒体。"
+      - text: "society"
+        is_correct: false
+        rationale: "‘社交社会’语义重复且不常用。"
+      - text: "source"
+        is_correct: false
+        rationale: "不符合句意。"
+      - text: "drought"
+        is_correct: false
+        rationale: "完全无关。"
+    hint: "微信、微博、抖音，这些统称为什么 _______？"
+
+  - id: 186
+    text: "This bottle can _______ one liter of orange juice."
+    options:
+      - text: "contain"
+        is_correct: true
+        rationale: "'Contain' 指‘包含’或‘装有’。"
+      - text: "fill"
+        is_correct: false
+        rationale: "你可以 fill 瓶子，但瓶子 contain 液体。"
+      - text: "deliver"
+        is_correct: false
+        rationale: "瓶子本身不递送。"
+      - text: "operate"
+        is_correct: false
+        rationale: "不符合语境。"
+    hint: "如果一个杯子里装了水，它就（_______）那些水。"
+
+  - id: 187
+    text: "If you want to stay fit, you should _______ regularly."
+    options:
+      - text: "exercise"
+        is_correct: true
+        rationale: "'Exercise' 指‘锻炼’。"
+      - text: "operate"
+        is_correct: false
+        rationale: "不符合逻辑。"
+      - text: "design"
+        is_correct: false
+        rationale: "不符合逻辑。"
+      - text: "replace"
+        is_correct: false
+        rationale: "不符合逻辑。"
+    hint: "跑步、仰卧起坐、拉伸，这些活动叫什么？"
+
+  - id: 188
+    text: "The _______ of the floor is made of small black and white squares."
+    options:
+      - text: "pattern"
+        is_correct: true
+        rationale: "'Pattern' 指‘图案’。"
+      - text: "texture"
+        is_correct: false
+        rationale: "虽然有质感，但方块属于视觉图案。"
+      - text: "detail"
+        is_correct: false
+        rationale: "不符合语境。"
+      - text: "injury"
+        is_correct: false
+        rationale: "不符合语境。"
+    hint: "重复出现的几何图形或者画叫什么？"
+
+  - id: 189
+    text: "Paris is a very popular _______ for tourists from all over the world."
+    options:
+      - text: "destination"
+        is_correct: true
+        rationale: "'Destination' 指‘目的地’。"
+      - text: "factory"
+        is_correct: false
+        rationale: "巴黎不仅是一个工厂。"
+      - text: "fridge"
+        is_correct: false
+        rationale: "完全无关。"
+      - text: "tradition"
+        is_correct: false
+        rationale: "不符合句意。"
+    hint: "你旅行要去的最远、最后的那个地方叫什么？"
+
+  - id: 190
+    text: "The snow leopard uses its white fur as _______ to hide in the mountains."
+    options:
+      - text: "camouflage"
+        is_correct: true
+        rationale: "'Camouflage' 指‘伪装’。"
+      - text: "communication"
+        is_correct: false
+        rationale: "毛不是用来交流的。"
+      - text: "conversation"
+        is_correct: false
+        rationale: "不符合逻辑。"
+      - text: "bravery"
+        is_correct: false
+        rationale: "毛不是勇气。"
+    hint: "动物为了不被发现而把自己变成和背景一样的颜色，这叫 _______。"
+
+  - id: 191
+    text: "Electronic _______ is much faster than writing and sending letters by post."
+    options:
+      - text: "communication"
+        is_correct: true
+        rationale: "'Communication' 指‘交流’或‘通信’。"
+      - text: "media"
+        is_correct: false
+        rationale: "虽然对，但 'communication' 更符合发送信息的动作。"
+      - text: "destination"
+        is_correct: false
+        rationale: "不符合逻辑。"
+      - text: "society"
+        is_correct: false
+        rationale: "不符合逻辑。"
+    hint: "人与人之间通过电脑、手机互通有无，这叫电子 _______。"
+
+  - id: 192
+    text: "Scientists use a special _______ to find out how old the ancient bones are."
+    options:
+      - text: "method"
+        is_correct: true
+        rationale: "'Method' 指‘方法’。"
+      - text: "fridge"
+        is_correct: false
+        rationale: "不符合逻辑。"
+      - text: "pattern"
+        is_correct: false
+        rationale: "不符合逻辑。"
+      - text: "camouflage"
+        is_correct: false
+        rationale: "不符合逻辑。"
+    hint: "做一件事的特定招式或者路数叫什么？"
+
+  - id: 193
+    text: "It is _______ how some birds can fly thousands of miles without stopping."
+    options:
+      - text: "incredible"
+        is_correct: true
+        rationale: "'Incredible' 指‘难以置信的’或‘奇妙的’。"
+      - text: "financial"
+        is_correct: false
+        rationale: "鸟飞翔不是金融问题。"
+      - text: "average"
+        is_correct: false
+        rationale: "这并不普通。"
+      - text: "simple"
+        is_correct: false
+        rationale: "这一点也不简单。"
+    hint: "如果你看到一件让你忍不住喊‘天哪’的事，它很 _______。"
+
+  - id: 194
+    text: "The little girl will _______ her mother with the cleaning today."
+    options:
+      - text: "assist"
+        is_correct: true
+        rationale: "'Assist' 指‘协助’。"
+      - text: "handle"
+        is_correct: false
+        rationale: "如果她自己做，是 handle；她帮妈妈做，是 assist。"
+      - text: "ignore"
+        is_correct: false
+        rationale: "忽略不符合帮助的逻辑。"
+      - text: "reflect"
+        is_correct: false
+        rationale: "不符合逻辑。"
+    hint: "如果你当一个小帮手，你是在 _______ 别人。"
+
+  - id: 195
+    text: "The wolf is a dangerous _______ that hunts smaller animals."
+    options:
+      - text: "predator"
+        is_correct: true
+        rationale: "'Predator' 指‘捕食者’。"
+      - text: "organism"
+        is_correct: false
+        rationale: "太笼统。"
+      - text: "assistant"
+        is_correct: false
+        rationale: "狼不是助手。"
+      - text: "creature"
+        is_correct: false
+        rationale: "虽然是对的，但 'predator' 更具代表性。"
+    hint: "在食物链顶端的猎手叫什么？"
+
+  - id: 196
+    text: "The calm water _______ the trees along the river bank like a mirror."
+    options:
+      - text: "reflects"
+        is_correct: true
+        rationale: "'Reflect' 指‘反射’。"
+      - text: "identifies"
+        is_correct: false
+        rationale: "水不识别树。"
+      - text: "establishes"
+        is_correct: false
+        rationale: "水不建立树。"
+      - text: "maintains"
+        is_correct: false
+        rationale: "水不维持树。"
+    hint: "光照到水面照出你的样子，这就是 _______ 现象。"
+
+  - id: 197
+    text: "A good leader knows how to _______ difficult problems calmly."
+    options:
+      - text: "handle"
+        is_correct: true
+        rationale: "'Handle' 指‘处理’或‘应对’。"
+      - text: "ignore"
+        is_correct: false
+        rationale: "不能忽略问题。"
+      - text: "motivate"
+        is_correct: false
+        rationale: "不符合逻辑。"
+      - text: "assist"
+        is_correct: false
+        rationale: "主语是领导者时，通常用 handle 表达其控制力。"
+    hint: "当你‘拿捏’并解决一个麻烦，你在 _______ 它。"
+
+  - id: 198
+    text: "The _______ of the new car is very sporty and fast-looking."
+    options:
+      - text: "appearance"
+        is_correct: true
+        rationale: "'Appearance' 指‘外表’。"
+      - text: "condition"
+        is_correct: false
+        rationale: "指状况，不仅仅是长相。"
+      - text: "tradition"
+        is_correct: false
+        rationale: "不符合逻辑。"
+      - text: "detail"
+        is_correct: false
+        rationale: "不符合逻辑。"
+    hint: "你第一眼看到的某样东西的‘长相’叫什么？"
+
+  - id: 199
+    text: "The _______ of the rock was very rough and scratchy."
+    options:
+      - text: "texture"
+        is_correct: true
+        rationale: "'Texture' 指‘纹理’或‘质感’。"
+      - text: "pattern"
+        is_correct: false
+        rationale: "方块是图案，粗糙感是质感。"
+      - text: "design"
+        is_correct: false
+        rationale: "石头不是被设计的。"
+      - text: "mood"
+        is_correct: false
+        rationale: "不符合逻辑。"
+    hint: "摸起来感觉怎么样，这叫 _______。"
+
+  - id: 200
+    text: "Every living _______ in our body needs oxygen to stay alive."
+    options:
+      - text: "cell"
+        is_correct: true
+        rationale: "'Cell' 指‘细胞’。"
+      - text: "factory"
+        is_correct: false
+        rationale: "虽然像工厂，但名字叫细胞。"
+      - text: "organism"
+        is_correct: false
+        rationale: "单细胞可以是一个 organism，但身体里的组成部分叫 cell。"
+      - text: "society"
+        is_correct: false
+        rationale: "不符合句意。"
+    hint: "生物体最小的单位叫什么？"
+
